@@ -1,0 +1,608 @@
+{
+ "items": [
+  {
+   "id": "bracelet-vague",
+   "nom": "Bracelet Vague",
+   "cat": "bracelets",
+   "pierre": "Rond",
+   "img": {
+    "blanc": "img/produits/bracelet-vague/blanc.jpg",
+    "jaune": "img/produits/bracelet-vague/jaune.jpg",
+    "rose": "img/produits/bracelet-vague/rose.jpg"
+   },
+   "thumb": {
+    "blanc": "img/produits/bracelet-vague/blanc-t.jpg",
+    "jaune": "img/produits/bracelet-vague/jaune-t.jpg",
+    "rose": "img/produits/bracelet-vague/rose-t.jpg"
+   }
+  },
+  {
+   "id": "bague-spirale-marquise",
+   "nom": "Bague Spirale Marquise",
+   "cat": "bagues",
+   "pierre": "Marquise",
+   "img": {
+    "jaune": "img/produits/bague-spirale-marquise/jaune.jpg",
+    "rose": "img/produits/bague-spirale-marquise/rose.jpg",
+    "blanc": "img/produits/bague-spirale-marquise/blanc.jpg"
+   },
+   "thumb": {
+    "jaune": "img/produits/bague-spirale-marquise/jaune-t.jpg",
+    "rose": "img/produits/bague-spirale-marquise/rose-t.jpg",
+    "blanc": "img/produits/bague-spirale-marquise/blanc-t.jpg"
+   }
+  },
+  {
+   "id": "chevaliere-pave-marquise",
+   "nom": "Chevalière Pavé Marquise",
+   "cat": "bagues",
+   "pierre": "Marquise",
+   "img": {
+    "rose": "img/produits/chevaliere-pave-marquise/rose.jpg",
+    "jaune": "img/produits/chevaliere-pave-marquise/jaune.jpg",
+    "blanc": "img/produits/chevaliere-pave-marquise/blanc.jpg"
+   },
+   "thumb": {
+    "rose": "img/produits/chevaliere-pave-marquise/rose-t.jpg",
+    "jaune": "img/produits/chevaliere-pave-marquise/jaune-t.jpg",
+    "blanc": "img/produits/chevaliere-pave-marquise/blanc-t.jpg"
+   }
+  },
+  {
+   "id": "collier-marquise",
+   "nom": "Collier Marquise",
+   "cat": "colliers",
+   "pierre": "Marquise",
+   "img": {
+    "rose": "img/produits/collier-marquise/rose.jpg",
+    "jaune": "img/produits/collier-marquise/jaune.jpg",
+    "blanc": "img/produits/collier-marquise/blanc.jpg"
+   },
+   "thumb": {
+    "rose": "img/produits/collier-marquise/rose-t.jpg",
+    "jaune": "img/produits/collier-marquise/jaune-t.jpg",
+    "blanc": "img/produits/collier-marquise/blanc-t.jpg"
+   }
+  },
+  {
+   "id": "alliance-eternite",
+   "nom": "Alliance Éternité",
+   "cat": "bagues",
+   "pierre": "Rond",
+   "img": {
+    "jaune": "img/produits/alliance-eternite/jaune.jpg",
+    "rose": "img/produits/alliance-eternite/rose.jpg",
+    "blanc": "img/produits/alliance-eternite/blanc.jpg"
+   },
+   "thumb": {
+    "jaune": "img/produits/alliance-eternite/jaune-t.jpg",
+    "rose": "img/produits/alliance-eternite/rose-t.jpg",
+    "blanc": "img/produits/alliance-eternite/blanc-t.jpg"
+   }
+  },
+  {
+   "id": "bague-spirale-poire",
+   "nom": "Bague Spirale Poire",
+   "cat": "bagues",
+   "pierre": "Poire",
+   "img": {
+    "rose": "img/produits/bague-spirale-poire/rose.jpg",
+    "blanc": "img/produits/bague-spirale-poire/blanc.jpg",
+    "jaune": "img/produits/bague-spirale-poire/jaune.jpg"
+   },
+   "thumb": {
+    "rose": "img/produits/bague-spirale-poire/rose-t.jpg",
+    "blanc": "img/produits/bague-spirale-poire/blanc-t.jpg",
+    "jaune": "img/produits/bague-spirale-poire/jaune-t.jpg"
+   }
+  },
+  {
+   "id": "bague-jonc-ovale",
+   "nom": "Bague Jonc Ovale",
+   "cat": "bagues",
+   "pierre": "Ovale",
+   "img": {
+    "blanc": "img/produits/bague-jonc-ovale/blanc.jpg",
+    "jaune": "img/produits/bague-jonc-ovale/jaune.jpg",
+    "rose": "img/produits/bague-jonc-ovale/rose.jpg"
+   },
+   "thumb": {
+    "blanc": "img/produits/bague-jonc-ovale/blanc-t.jpg",
+    "jaune": "img/produits/bague-jonc-ovale/jaune-t.jpg",
+    "rose": "img/produits/bague-jonc-ovale/rose-t.jpg"
+   }
+  },
+  {
+   "id": "demi-alliance-diamants",
+   "nom": "Demi-Alliance Diamants",
+   "cat": "bagues",
+   "pierre": "Rond",
+   "img": {
+    "rose": "img/produits/demi-alliance-diamants/rose.jpg",
+    "jaune": "img/produits/demi-alliance-diamants/jaune.jpg",
+    "blanc": "img/produits/demi-alliance-diamants/blanc.jpg"
+   },
+   "thumb": {
+    "rose": "img/produits/demi-alliance-diamants/rose-t.jpg",
+    "jaune": "img/produits/demi-alliance-diamants/jaune-t.jpg",
+    "blanc": "img/produits/demi-alliance-diamants/blanc-t.jpg"
+   }
+  },
+  {
+   "id": "bague-coeur-serti-clos",
+   "nom": "Bague Cœur Serti Clos",
+   "cat": "bagues",
+   "pierre": "Cœur",
+   "img": {
+    "rose": "img/produits/bague-coeur-serti-clos/rose.jpg",
+    "blanc": "img/produits/bague-coeur-serti-clos/blanc.jpg",
+    "jaune": "img/produits/bague-coeur-serti-clos/jaune.jpg"
+   },
+   "thumb": {
+    "rose": "img/produits/bague-coeur-serti-clos/rose-t.jpg",
+    "blanc": "img/produits/bague-coeur-serti-clos/blanc-t.jpg",
+    "jaune": "img/produits/bague-coeur-serti-clos/jaune-t.jpg"
+   }
+  },
+  {
+   "id": "bague-dentelle-coeurs",
+   "nom": "Bague Dentelle Cœurs",
+   "cat": "bagues",
+   "pierre": "Pavé",
+   "img": {
+    "blanc": "img/produits/bague-dentelle-coeurs/blanc.jpg",
+    "rose": "img/produits/bague-dentelle-coeurs/rose.jpg",
+    "jaune": "img/produits/bague-dentelle-coeurs/jaune.jpg"
+   },
+   "thumb": {
+    "blanc": "img/produits/bague-dentelle-coeurs/blanc-t.jpg",
+    "rose": "img/produits/bague-dentelle-coeurs/rose-t.jpg",
+    "jaune": "img/produits/bague-dentelle-coeurs/jaune-t.jpg"
+   }
+  },
+  {
+   "id": "bracelet-tennis-fin",
+   "nom": "Bracelet Tennis Fin",
+   "cat": "bracelets",
+   "pierre": "Rond",
+   "img": {
+    "blanc": "img/produits/bracelet-tennis-fin/blanc.jpg",
+    "jaune": "img/produits/bracelet-tennis-fin/jaune.jpg",
+    "rose": "img/produits/bracelet-tennis-fin/rose.jpg"
+   },
+   "thumb": {
+    "blanc": "img/produits/bracelet-tennis-fin/blanc-t.jpg",
+    "jaune": "img/produits/bracelet-tennis-fin/jaune-t.jpg",
+    "rose": "img/produits/bracelet-tennis-fin/rose-t.jpg"
+   }
+  },
+  {
+   "id": "solitaire-poire",
+   "nom": "Solitaire Poire",
+   "cat": "bagues",
+   "pierre": "Poire",
+   "img": {
+    "blanc": "img/produits/solitaire-poire/blanc.jpg",
+    "rose": "img/produits/solitaire-poire/rose.jpg",
+    "jaune": "img/produits/solitaire-poire/jaune.jpg"
+   },
+   "thumb": {
+    "blanc": "img/produits/solitaire-poire/blanc-t.jpg",
+    "rose": "img/produits/solitaire-poire/rose-t.jpg",
+    "jaune": "img/produits/solitaire-poire/jaune-t.jpg"
+   }
+  },
+  {
+   "id": "bague-emeraude-double-halo",
+   "nom": "Bague Émeraude Double Halo",
+   "cat": "bagues",
+   "pierre": "Émeraude",
+   "img": {
+    "jaune": "img/produits/bague-emeraude-double-halo/jaune.jpg",
+    "rose": "img/produits/bague-emeraude-double-halo/rose.jpg",
+    "blanc": "img/produits/bague-emeraude-double-halo/blanc.jpg"
+   },
+   "thumb": {
+    "jaune": "img/produits/bague-emeraude-double-halo/jaune-t.jpg",
+    "rose": "img/produits/bague-emeraude-double-halo/rose-t.jpg",
+    "blanc": "img/produits/bague-emeraude-double-halo/blanc-t.jpg"
+   }
+  },
+  {
+   "id": "collier-solitaire-ovale",
+   "nom": "Collier Solitaire Ovale",
+   "cat": "colliers",
+   "pierre": "Ovale",
+   "img": {
+    "blanc": "img/produits/collier-solitaire-ovale/blanc.jpg",
+    "rose": "img/produits/collier-solitaire-ovale/rose.jpg",
+    "jaune": "img/produits/collier-solitaire-ovale/jaune.jpg"
+   },
+   "thumb": {
+    "blanc": "img/produits/collier-solitaire-ovale/blanc-t.jpg",
+    "rose": "img/produits/collier-solitaire-ovale/rose-t.jpg",
+    "jaune": "img/produits/collier-solitaire-ovale/jaune-t.jpg"
+   }
+  },
+  {
+   "id": "collier-solitaire-poire",
+   "nom": "Collier Solitaire Poire",
+   "cat": "colliers",
+   "pierre": "Poire",
+   "img": {
+    "rose": "img/produits/collier-solitaire-poire/rose.jpg",
+    "blanc": "img/produits/collier-solitaire-poire/blanc.jpg",
+    "jaune": "img/produits/collier-solitaire-poire/jaune.jpg"
+   },
+   "thumb": {
+    "rose": "img/produits/collier-solitaire-poire/rose-t.jpg",
+    "blanc": "img/produits/collier-solitaire-poire/blanc-t.jpg",
+    "jaune": "img/produits/collier-solitaire-poire/jaune-t.jpg"
+   }
+  },
+  {
+   "id": "collier-riviere",
+   "nom": "Collier Rivière",
+   "cat": "colliers",
+   "pierre": "Poire",
+   "img": {
+    "rose": "img/produits/collier-riviere/rose.jpg",
+    "blanc": "img/produits/collier-riviere/blanc.jpg",
+    "jaune": "img/produits/collier-riviere/jaune.jpg"
+   },
+   "thumb": {
+    "rose": "img/produits/collier-riviere/rose-t.jpg",
+    "blanc": "img/produits/collier-riviere/blanc-t.jpg",
+    "jaune": "img/produits/collier-riviere/jaune-t.jpg"
+   }
+  },
+  {
+   "id": "bague-marquise-halo",
+   "nom": "Bague Marquise Halo",
+   "cat": "bagues",
+   "pierre": "Marquise",
+   "img": {
+    "blanc": "img/produits/bague-marquise-halo/blanc.jpg",
+    "rose": "img/produits/bague-marquise-halo/rose.jpg",
+    "jaune": "img/produits/bague-marquise-halo/jaune.jpg"
+   },
+   "thumb": {
+    "blanc": "img/produits/bague-marquise-halo/blanc-t.jpg",
+    "rose": "img/produits/bague-marquise-halo/rose-t.jpg",
+    "jaune": "img/produits/bague-marquise-halo/jaune-t.jpg"
+   }
+  },
+  {
+   "id": "bracelet-jonc-ouvert-poires",
+   "nom": "Bracelet Jonc Ouvert Poires",
+   "cat": "bracelets",
+   "pierre": "Poire",
+   "img": {
+    "blanc": "img/produits/bracelet-jonc-ouvert-poires/blanc.jpg",
+    "jaune": "img/produits/bracelet-jonc-ouvert-poires/jaune.jpg",
+    "rose": "img/produits/bracelet-jonc-ouvert-poires/rose.jpg"
+   },
+   "thumb": {
+    "blanc": "img/produits/bracelet-jonc-ouvert-poires/blanc-t.jpg",
+    "jaune": "img/produits/bracelet-jonc-ouvert-poires/jaune-t.jpg",
+    "rose": "img/produits/bracelet-jonc-ouvert-poires/rose-t.jpg"
+   }
+  },
+  {
+   "id": "bracelet-tennis",
+   "nom": "Bracelet Tennis",
+   "cat": "bracelets",
+   "pierre": "Rond",
+   "img": {
+    "blanc": "img/produits/bracelet-tennis/blanc.jpg",
+    "jaune": "img/produits/bracelet-tennis/jaune.jpg",
+    "rose": "img/produits/bracelet-tennis/rose.jpg"
+   },
+   "thumb": {
+    "blanc": "img/produits/bracelet-tennis/blanc-t.jpg",
+    "jaune": "img/produits/bracelet-tennis/jaune-t.jpg",
+    "rose": "img/produits/bracelet-tennis/rose-t.jpg"
+   }
+  },
+  {
+   "id": "puces-serti-clos",
+   "nom": "Puces d'Oreilles Serti Clos",
+   "cat": "boucles",
+   "pierre": "Rond",
+   "img": {
+    "jaune": "img/produits/puces-serti-clos/jaune.jpg",
+    "rose": "img/produits/puces-serti-clos/rose.jpg",
+    "blanc": "img/produits/puces-serti-clos/blanc.jpg"
+   },
+   "thumb": {
+    "jaune": "img/produits/puces-serti-clos/jaune-t.jpg",
+    "rose": "img/produits/puces-serti-clos/rose-t.jpg",
+    "blanc": "img/produits/puces-serti-clos/blanc-t.jpg"
+   }
+  },
+  {
+   "id": "bague-double-marquise",
+   "nom": "Bague Double Marquise",
+   "cat": "bagues",
+   "pierre": "Marquise",
+   "img": {
+    "rose": "img/produits/bague-double-marquise/rose.jpg",
+    "blanc": "img/produits/bague-double-marquise/blanc.jpg",
+    "jaune": "img/produits/bague-double-marquise/jaune.jpg"
+   },
+   "thumb": {
+    "rose": "img/produits/bague-double-marquise/rose-t.jpg",
+    "blanc": "img/produits/bague-double-marquise/blanc-t.jpg",
+    "jaune": "img/produits/bague-double-marquise/jaune-t.jpg"
+   }
+  },
+  {
+   "id": "bague-poire-halo",
+   "nom": "Bague Poire Halo",
+   "cat": "bagues",
+   "pierre": "Poire",
+   "img": {
+    "blanc": "img/produits/bague-poire-halo/blanc.jpg",
+    "rose": "img/produits/bague-poire-halo/rose.jpg",
+    "jaune": "img/produits/bague-poire-halo/jaune.jpg"
+   },
+   "thumb": {
+    "blanc": "img/produits/bague-poire-halo/blanc-t.jpg",
+    "rose": "img/produits/bague-poire-halo/rose-t.jpg",
+    "jaune": "img/produits/bague-poire-halo/jaune-t.jpg"
+   }
+  },
+  {
+   "id": "bracelet-cordon-solitaire",
+   "nom": "Bracelet Cordon Solitaire",
+   "cat": "bracelets",
+   "pierre": "Rond",
+   "img": {
+    "jaune": "img/produits/bracelet-cordon-solitaire/jaune.jpg",
+    "blanc": "img/produits/bracelet-cordon-solitaire/blanc.jpg",
+    "rose": "img/produits/bracelet-cordon-solitaire/rose.jpg"
+   },
+   "thumb": {
+    "jaune": "img/produits/bracelet-cordon-solitaire/jaune-t.jpg",
+    "blanc": "img/produits/bracelet-cordon-solitaire/blanc-t.jpg",
+    "rose": "img/produits/bracelet-cordon-solitaire/rose-t.jpg"
+   }
+  },
+  {
+   "id": "bague-marquises-poires",
+   "nom": "Bague Marquises et Poires",
+   "cat": "bagues",
+   "pierre": "Marquise",
+   "img": {
+    "blanc": "img/produits/bague-marquises-poires/blanc.jpg",
+    "jaune": "img/produits/bague-marquises-poires/jaune.jpg",
+    "rose": "img/produits/bague-marquises-poires/rose.jpg"
+   },
+   "thumb": {
+    "blanc": "img/produits/bague-marquises-poires/blanc-t.jpg",
+    "jaune": "img/produits/bague-marquises-poires/jaune-t.jpg",
+    "rose": "img/produits/bague-marquises-poires/rose-t.jpg"
+   }
+  },
+  {
+   "id": "pendentif-carte-israel",
+   "nom": "Pendentif Carte d'Israël",
+   "cat": "colliers",
+   "pierre": "Pavé",
+   "img": {
+    "rose": "img/produits/pendentif-carte-israel/rose.jpg",
+    "jaune": "img/produits/pendentif-carte-israel/jaune.jpg",
+    "blanc": "img/produits/pendentif-carte-israel/blanc.jpg"
+   },
+   "thumb": {
+    "rose": "img/produits/pendentif-carte-israel/rose-t.jpg",
+    "jaune": "img/produits/pendentif-carte-israel/jaune-t.jpg",
+    "blanc": "img/produits/pendentif-carte-israel/blanc-t.jpg"
+   }
+  },
+  {
+   "id": "bracelet-jonc-diamants",
+   "nom": "Bracelet Jonc Diamants",
+   "cat": "bracelets",
+   "pierre": "Ovale",
+   "img": {
+    "rose": "img/produits/bracelet-jonc-diamants/rose.jpg",
+    "blanc": "img/produits/bracelet-jonc-diamants/blanc.jpg",
+    "jaune": "img/produits/bracelet-jonc-diamants/jaune.jpg"
+   },
+   "thumb": {
+    "rose": "img/produits/bracelet-jonc-diamants/rose-t.jpg",
+    "blanc": "img/produits/bracelet-jonc-diamants/blanc-t.jpg",
+    "jaune": "img/produits/bracelet-jonc-diamants/jaune-t.jpg"
+   }
+  },
+  {
+   "id": "collier-coeur",
+   "nom": "Collier Cœur",
+   "cat": "colliers",
+   "pierre": "Cœur",
+   "img": {
+    "blanc": "img/produits/collier-coeur/blanc.jpg",
+    "rose": "img/produits/collier-coeur/rose.jpg",
+    "jaune": "img/produits/collier-coeur/jaune.jpg"
+   },
+   "thumb": {
+    "blanc": "img/produits/collier-coeur/blanc-t.jpg",
+    "rose": "img/produits/collier-coeur/rose-t.jpg",
+    "jaune": "img/produits/collier-coeur/jaune-t.jpg"
+   }
+  },
+  {
+   "id": "bracelet-chaine-diamants",
+   "nom": "Bracelet Chaîne Diamants",
+   "cat": "bracelets",
+   "pierre": "Rond",
+   "img": {
+    "jaune": "img/produits/bracelet-chaine-diamants/jaune.jpg",
+    "blanc": "img/produits/bracelet-chaine-diamants/blanc.jpg",
+    "rose": "img/produits/bracelet-chaine-diamants/rose.jpg"
+   },
+   "thumb": {
+    "jaune": "img/produits/bracelet-chaine-diamants/jaune-t.jpg",
+    "blanc": "img/produits/bracelet-chaine-diamants/blanc-t.jpg",
+    "rose": "img/produits/bracelet-chaine-diamants/rose-t.jpg"
+   }
+  },
+  {
+   "id": "creoles-diamants",
+   "nom": "Créoles Diamants",
+   "cat": "boucles",
+   "pierre": "Rond",
+   "img": {
+    "jaune": "img/produits/creoles-diamants/jaune.jpg",
+    "blanc": "img/produits/creoles-diamants/blanc.jpg",
+    "rose": "img/produits/creoles-diamants/rose.jpg"
+   },
+   "thumb": {
+    "jaune": "img/produits/creoles-diamants/jaune-t.jpg",
+    "blanc": "img/produits/creoles-diamants/blanc-t.jpg",
+    "rose": "img/produits/creoles-diamants/rose-t.jpg"
+   }
+  },
+  {
+   "id": "boucle-chaine-diamants",
+   "nom": "Boucle Chaîne Diamants",
+   "cat": "boucles",
+   "pierre": "Poire",
+   "img": {
+    "blanc": "img/produits/boucle-chaine-diamants/blanc.jpg",
+    "rose": "img/produits/boucle-chaine-diamants/rose.jpg",
+    "jaune": "img/produits/boucle-chaine-diamants/jaune.jpg"
+   },
+   "thumb": {
+    "blanc": "img/produits/boucle-chaine-diamants/blanc-t.jpg",
+    "rose": "img/produits/boucle-chaine-diamants/rose-t.jpg",
+    "jaune": "img/produits/boucle-chaine-diamants/jaune-t.jpg"
+   }
+  },
+  {
+   "id": "collier-arc-en-ciel",
+   "nom": "Collier Arc-en-Ciel",
+   "cat": "colliers",
+   "pierre": "Pavé",
+   "img": {
+    "jaune": "img/produits/collier-arc-en-ciel/jaune.jpg"
+   },
+   "thumb": {
+    "jaune": "img/produits/collier-arc-en-ciel/jaune-t.jpg"
+   }
+  },
+  {
+   "id": "collier-lariat-emeraude",
+   "nom": "Collier Lariat Émeraude",
+   "cat": "colliers",
+   "pierre": "Émeraude",
+   "img": {
+    "jaune": "img/produits/collier-lariat-emeraude/jaune.jpg",
+    "rose": "img/produits/collier-lariat-emeraude/rose.jpg",
+    "blanc": "img/produits/collier-lariat-emeraude/blanc.jpg"
+   },
+   "thumb": {
+    "jaune": "img/produits/collier-lariat-emeraude/jaune-t.jpg",
+    "rose": "img/produits/collier-lariat-emeraude/rose-t.jpg",
+    "blanc": "img/produits/collier-lariat-emeraude/blanc-t.jpg"
+   }
+  },
+  {
+   "id": "chevaliere-coeur",
+   "nom": "Chevalière Cœur",
+   "cat": "bagues",
+   "pierre": "Cœur",
+   "img": {
+    "blanc": "img/produits/chevaliere-coeur/blanc.jpg",
+    "jaune": "img/produits/chevaliere-coeur/jaune.jpg",
+    "rose": "img/produits/chevaliere-coeur/rose.jpg"
+   },
+   "thumb": {
+    "blanc": "img/produits/chevaliere-coeur/blanc-t.jpg",
+    "jaune": "img/produits/chevaliere-coeur/jaune-t.jpg",
+    "rose": "img/produits/chevaliere-coeur/rose-t.jpg"
+   }
+  },
+  {
+   "id": "solitaire-ovale",
+   "nom": "Solitaire Ovale",
+   "cat": "bagues",
+   "pierre": "Ovale",
+   "img": {
+    "blanc": "img/produits/solitaire-ovale/blanc.jpg",
+    "rose": "img/produits/solitaire-ovale/rose.jpg",
+    "jaune": "img/produits/solitaire-ovale/jaune.jpg"
+   },
+   "thumb": {
+    "blanc": "img/produits/solitaire-ovale/blanc-t.jpg",
+    "rose": "img/produits/solitaire-ovale/rose-t.jpg",
+    "jaune": "img/produits/solitaire-ovale/jaune-t.jpg"
+   }
+  },
+  {
+   "id": "bague-solitaire-pavee",
+   "nom": "Bague Solitaire Pavée",
+   "cat": "bagues",
+   "pierre": "Rond",
+   "img": {
+    "rose": "img/produits/bague-solitaire-pavee/rose.jpg",
+    "blanc": "img/produits/bague-solitaire-pavee/blanc.jpg",
+    "jaune": "img/produits/bague-solitaire-pavee/jaune.jpg"
+   },
+   "thumb": {
+    "rose": "img/produits/bague-solitaire-pavee/rose-t.jpg",
+    "blanc": "img/produits/bague-solitaire-pavee/blanc-t.jpg",
+    "jaune": "img/produits/bague-solitaire-pavee/jaune-t.jpg"
+   }
+  },
+  {
+   "id": "bague-solitaire-marquises",
+   "nom": "Bague Solitaire Marquises",
+   "cat": "bagues",
+   "pierre": "Rond",
+   "img": {
+    "blanc": "img/produits/bague-solitaire-marquises/blanc.jpg",
+    "rose": "img/produits/bague-solitaire-marquises/rose.jpg",
+    "jaune": "img/produits/bague-solitaire-marquises/jaune.jpg"
+   },
+   "thumb": {
+    "blanc": "img/produits/bague-solitaire-marquises/blanc-t.jpg",
+    "rose": "img/produits/bague-solitaire-marquises/rose-t.jpg",
+    "jaune": "img/produits/bague-solitaire-marquises/jaune-t.jpg"
+   }
+  },
+  {
+   "id": "chevaliere-marquise-rainuree",
+   "nom": "Chevalière Marquise Rainurée",
+   "cat": "bagues",
+   "pierre": "Marquise",
+   "img": {
+    "rose": "img/produits/chevaliere-marquise-rainuree/rose.jpg",
+    "jaune": "img/produits/chevaliere-marquise-rainuree/jaune.jpg",
+    "blanc": "img/produits/chevaliere-marquise-rainuree/blanc.jpg"
+   },
+   "thumb": {
+    "rose": "img/produits/chevaliere-marquise-rainuree/rose-t.jpg",
+    "jaune": "img/produits/chevaliere-marquise-rainuree/jaune-t.jpg",
+    "blanc": "img/produits/chevaliere-marquise-rainuree/blanc-t.jpg"
+   }
+  },
+  {
+   "id": "bague-poire-epaulee",
+   "nom": "Bague Poire Épaulée",
+   "cat": "bagues",
+   "pierre": "Poire",
+   "img": {
+    "blanc": "img/produits/bague-poire-epaulee/blanc.jpg",
+    "jaune": "img/produits/bague-poire-epaulee/jaune.jpg",
+    "rose": "img/produits/bague-poire-epaulee/rose.jpg"
+   },
+   "thumb": {
+    "blanc": "img/produits/bague-poire-epaulee/blanc-t.jpg",
+    "jaune": "img/produits/bague-poire-epaulee/jaune-t.jpg",
+    "rose": "img/produits/bague-poire-epaulee/rose-t.jpg"
+   }
+  }
+ ]
+}

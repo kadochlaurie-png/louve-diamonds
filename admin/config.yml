@@ -1,0 +1,50 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "img/uploads"
+public_folder: "img/uploads"
+
+locale: "fr"
+
+collections:
+  - name: "produits"
+    label: "Catalogue"
+    files:
+      - name: "produits"
+        label: "Bijoux Louve Diamonds"
+        file: "data/products.json"
+        fields:
+          - label: "Bijoux"
+            name: "items"
+            widget: "list"
+            label_singular: "Bijou"
+            summary: "{{fields.nom}}"
+            fields:
+              - {label: "ID (ne pas modifier)", name: "id", widget: "hidden", default: ""}
+              - {label: "Miniatures (ne pas modifier)", name: "thumb", widget: "hidden", default: {}}
+              - label: "Nom du bijou"
+                name: "nom"
+                widget: "string"
+                hint: "Exemple : Bague Solitaire Poire"
+              - label: "Catégorie"
+                name: "cat"
+                widget: "select"
+                default: "bagues"
+                options:
+                  - {label: "Bagues", value: "bagues"}
+                  - {label: "Colliers", value: "colliers"}
+                  - {label: "Bracelets", value: "bracelets"}
+                  - {label: "Boucles d'oreilles", value: "boucles"}
+              - label: "Forme de la pierre"
+                name: "pierre"
+                widget: "select"
+                default: "Rond"
+                options: ["Rond","Poire","Ovale","Marquise","Émeraude","Cœur","Coussin","Princesse","Radiant","Pavé"]
+              - label: "Photos (laissez vide si le bijou n'existe pas dans cette couleur)"
+                name: "img"
+                widget: "object"
+                fields:
+                  - {label: "Photo en or blanc", name: "blanc", widget: "image", required: false, hint: "Photo carrée sur fond blanc, idéalement"}
+                  - {label: "Photo en or rose", name: "rose", widget: "image", required: false}
+                  - {label: "Photo en or jaune", name: "jaune", widget: "image", required: false}

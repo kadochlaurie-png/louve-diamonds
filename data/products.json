@@ -717,35 +717,35 @@
       }
     },
     {
-      "id": "boucle-jacket-baguettes",
-      "nom": "Boucle Jacket Baguettes",
-      "cat": "boucles",
+      "id": "piercing-jacket-baguettes",
+      "nom": "Piercing Jacket Baguettes",
+      "cat": "piercings",
       "pierre": "Baguette",
       "img": {
-        "jaune": "img/produits/boucle-jacket-baguettes/jaune.jpg",
-        "blanc": "img/produits/boucle-jacket-baguettes/blanc.jpg",
-        "rose": "img/produits/boucle-jacket-baguettes/rose.jpg"
+        "jaune": "img/produits/piercing-jacket-baguettes/jaune.jpg",
+        "blanc": "img/produits/piercing-jacket-baguettes/blanc.jpg",
+        "rose": "img/produits/piercing-jacket-baguettes/rose.jpg"
       },
       "thumb": {
-        "jaune": "img/produits/boucle-jacket-baguettes/jaune-t.jpg",
-        "blanc": "img/produits/boucle-jacket-baguettes/blanc-t.jpg",
-        "rose": "img/produits/boucle-jacket-baguettes/rose-t.jpg"
+        "jaune": "img/produits/piercing-jacket-baguettes/jaune-t.jpg",
+        "blanc": "img/produits/piercing-jacket-baguettes/blanc-t.jpg",
+        "rose": "img/produits/piercing-jacket-baguettes/rose-t.jpg"
       }
     },
     {
-      "id": "boucle-pampille-degradee",
-      "nom": "Boucle Pampille Dégradée",
-      "cat": "boucles",
+      "id": "piercing-pampille-degradee",
+      "nom": "Piercing Pampille Dégradée",
+      "cat": "piercings",
       "pierre": "Poire",
       "img": {
-        "jaune": "img/produits/boucle-pampille-degradee/jaune.jpg",
-        "rose": "img/produits/boucle-pampille-degradee/rose.jpg",
-        "blanc": "img/produits/boucle-pampille-degradee/blanc.jpg"
+        "jaune": "img/produits/piercing-pampille-degradee/jaune.jpg",
+        "rose": "img/produits/piercing-pampille-degradee/rose.jpg",
+        "blanc": "img/produits/piercing-pampille-degradee/blanc.jpg"
       },
       "thumb": {
-        "jaune": "img/produits/boucle-pampille-degradee/jaune-t.jpg",
-        "rose": "img/produits/boucle-pampille-degradee/rose-t.jpg",
-        "blanc": "img/produits/boucle-pampille-degradee/blanc-t.jpg"
+        "jaune": "img/produits/piercing-pampille-degradee/jaune-t.jpg",
+        "rose": "img/produits/piercing-pampille-degradee/rose-t.jpg",
+        "blanc": "img/produits/piercing-pampille-degradee/blanc-t.jpg"
       }
     },
     {
@@ -792,20 +792,6 @@
         "rose": "img/produits/piercing-grimpant-onyx/rose-t.jpg",
         "jaune": "img/produits/piercing-grimpant-onyx/jaune-t.jpg",
         "blanc": "img/produits/piercing-grimpant-onyx/blanc-t.jpg"
-      }
-    },
-    {
-      "id": "boucle-trio-marquises",
-      "nom": "Boucle Trio Marquises",
-      "cat": "boucles",
-      "pierre": "Marquise",
-      "img": {
-        "jaune": "img/produits/boucle-trio-marquises/jaune.jpg",
-        "rose": "img/produits/boucle-trio-marquises/rose.jpg"
-      },
-      "thumb": {
-        "jaune": "img/produits/boucle-trio-marquises/jaune-t.jpg",
-        "rose": "img/produits/boucle-trio-marquises/rose-t.jpg"
       }
     },
     {
@@ -995,15 +981,19 @@
       }
     },
     {
-      "id": "boucle-grappe-marquise",
-      "nom": "Boucle Grappe Marquise",
-      "cat": "boucles",
+      "id": "piercing-grappe-marquise",
+      "nom": "Piercing Grappe Marquise",
+      "cat": "piercings",
       "pierre": "Marquise",
       "img": {
-        "jaune": "img/produits/boucle-grappe-marquise/jaune.jpg"
+        "blanc": "img/produits/piercing-grappe-marquise/blanc.jpg",
+        "jaune": "img/produits/piercing-grappe-marquise/jaune.jpg",
+        "rose": "img/produits/piercing-grappe-marquise/rose.jpg"
       },
       "thumb": {
-        "jaune": "img/produits/boucle-grappe-marquise/jaune-t.jpg"
+        "blanc": "img/produits/piercing-grappe-marquise/blanc-t.jpg",
+        "jaune": "img/produits/piercing-grappe-marquise/jaune-t.jpg",
+        "rose": "img/produits/piercing-grappe-marquise/rose-t.jpg"
       }
     },
     {
@@ -1116,18 +1106,6 @@
       },
       "thumb": {
         "rose": "img/produits/bague-emeraude-verte-rose/rose-t.jpg"
-      }
-    },
-    {
-      "id": "boucle-grappe-marquise-rose",
-      "nom": "Boucle Grappe Marquise Rosée",
-      "cat": "boucles",
-      "pierre": "Marquise",
-      "img": {
-        "rose": "img/produits/boucle-grappe-marquise-rose/rose.jpg"
-      },
-      "thumb": {
-        "rose": "img/produits/boucle-grappe-marquise-rose/rose-t.jpg"
       }
     },
     {

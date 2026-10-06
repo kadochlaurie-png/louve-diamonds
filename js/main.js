@@ -3,7 +3,7 @@ const L=window.LOUVE;
 const WA='<svg viewBox="0 0 24 24"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2zm5.2 14.2c-.2.6-1.3 1.2-1.8 1.2-.5.1-1 .2-3.3-.7-2.8-1.2-4.6-4-4.7-4.2-.1-.2-1.1-1.5-1.1-2.8s.7-2 1-2.3c.2-.3.5-.3.7-.3h.5c.2 0 .4 0 .6.5l.8 2c.1.2.1.3 0 .5l-.3.5-.4.4c-.1.2-.3.3-.1.6.2.3.8 1.3 1.7 2.1 1.1 1 2.1 1.3 2.4 1.4.3.1.4.1.6-.1l.8-1c.2-.3.4-.2.6-.1l1.9.9c.3.1.5.2.5.3.1.2.1.7-.1 1.3z"/></svg>';
 window.waLink=function(msg){return 'https://wa.me/'+L.whatsapp+'?text='+encodeURIComponent(msg)};
 window.WA_ICON=WA;
-const nav=[["index.html","nav.home"],["catalogue.html?cat=bagues","nav.bagues","bagues"],["catalogue.html?cat=colliers","nav.colliers","colliers"],["catalogue.html?cat=bracelets","nav.bracelets","bracelets"],["catalogue.html?cat=boucles","nav.boucles","boucles"],["sur-mesure.html","nav.sur"],["a-propos.html","nav.apropos"],["contact.html","nav.contact"]];
+const nav=[["index.html","nav.home"],["catalogue.html?cat=bagues","nav.bagues","bagues"],["catalogue.html?cat=colliers","nav.colliers","colliers"],["catalogue.html?cat=bracelets","nav.bracelets","bracelets"],["catalogue.html?cat=boucles","nav.boucles","boucles"],["catalogue.html?cat=piercings","nav.piercings","piercings"],["sur-mesure.html","nav.sur"],["a-propos.html","nav.apropos"],["contact.html","nav.contact"]];
 const page=location.pathname.split('/').pop()||'index.html';
 const cat=new URLSearchParams(location.search).get('cat');
 const on=n=>{const f=n[0].split('?')[0];if(n[2])return page==='catalogue.html'&&cat===n[2];return f===page&&page!=='catalogue.html'};
@@ -15,7 +15,7 @@ const gm=t('msg.gen');
 document.body.insertAdjacentHTML('beforeend',
 `<footer class="ftr"><div class="wrap"><div class="g">
 <div>${logo}<p style="margin-top:18px;color:#6b6b6b;max-width:260px">${t('f.tag')}</p></div>
-<div><h5>${t('f.coll')}</h5><ul><li><a href="catalogue.html?cat=bagues">${t('nav.bagues')}</a></li><li><a href="catalogue.html?cat=colliers">${t('nav.colliers')}</a></li><li><a href="catalogue.html?cat=bracelets">${t('nav.bracelets')}</a></li><li><a href="catalogue.html?cat=boucles">${t('nav.boucles')}</a></li></ul></div>
+<div><h5>${t('f.coll')}</h5><ul><li><a href="catalogue.html?cat=bagues">${t('nav.bagues')}</a></li><li><a href="catalogue.html?cat=colliers">${t('nav.colliers')}</a></li><li><a href="catalogue.html?cat=bracelets">${t('nav.bracelets')}</a></li><li><a href="catalogue.html?cat=boucles">${t('nav.boucles')}</a></li><li><a href="catalogue.html?cat=piercings">${t('nav.piercings')}</a></li></ul></div>
 <div><h5>${t('f.maison')}</h5><ul><li><a href="sur-mesure.html">${t('f.sur')}</a></li><li><a href="a-propos.html">${t('nav.apropos')}</a></li><li><a href="contact.html">${t('nav.contact')}</a></li></ul></div>
 <div><h5>${t('f.contact')}</h5><ul><li><a href="${waLink(gm)}" target="_blank" rel="noopener">WhatsApp</a></li><li><a href="https://instagram.com/${L.instagram}" target="_blank" rel="noopener">Instagram</a></li><li><a href="mailto:${L.email}" dir="ltr">${L.email}</a></li><li>${t('ct.adv')}</li></ul></div>
 </div><div class="copy">© ${new Date().getFullYear()} ${t('brand')} — ${t('f.copy')}</div></div></footer>

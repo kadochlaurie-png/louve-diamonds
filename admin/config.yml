@@ -36,11 +36,12 @@ collections:
                   - {label: "Colliers", value: "colliers"}
                   - {label: "Bracelets", value: "bracelets"}
                   - {label: "Boucles d'oreilles", value: "boucles"}
+                  - {label: "Piercings", value: "piercings"}
               - label: "Forme de la pierre"
                 name: "pierre"
                 widget: "select"
                 default: "Rond"
-                options: ["Rond","Poire","Ovale","Marquise","Émeraude","Cœur","Coussin","Princesse","Radiant","Pavé"]
+                options: ["Rond","Poire","Ovale","Marquise","Émeraude","Cœur","Coussin","Princesse","Radiant","Pavé","Baguette"]
               - label: "Photos (laissez vide si le bijou n'existe pas dans cette couleur)"
                 name: "img"
                 widget: "object"

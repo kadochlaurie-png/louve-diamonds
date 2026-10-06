@@ -603,6 +603,728 @@
     "jaune": "img/produits/bague-poire-epaulee/jaune-t.jpg",
     "rose": "img/produits/bague-poire-epaulee/rose-t.jpg"
    }
+  },
+  {
+   "id": "boucles-trefle-pave",
+   "nom": "Boucles Trèfle Pavé",
+   "cat": "boucles",
+   "pierre": "Rond",
+   "img": {
+    "jaune": "img/produits/boucles-trefle-pave/jaune.jpg",
+    "rose": "img/produits/boucles-trefle-pave/rose.jpg",
+    "blanc": "img/produits/boucles-trefle-pave/blanc.jpg"
+   },
+   "thumb": {
+    "jaune": "img/produits/boucles-trefle-pave/jaune-t.jpg",
+    "rose": "img/produits/boucles-trefle-pave/rose-t.jpg",
+    "blanc": "img/produits/boucles-trefle-pave/blanc-t.jpg"
+   }
+  },
+  {
+   "id": "alliance-mosaique",
+   "nom": "Alliance Mosaïque",
+   "cat": "bagues",
+   "pierre": "Pavé",
+   "img": {
+    "blanc": "img/produits/alliance-mosaique/blanc.jpg",
+    "jaune": "img/produits/alliance-mosaique/jaune.jpg",
+    "rose": "img/produits/alliance-mosaique/rose.jpg"
+   },
+   "thumb": {
+    "blanc": "img/produits/alliance-mosaique/blanc-t.jpg",
+    "jaune": "img/produits/alliance-mosaique/jaune-t.jpg",
+    "rose": "img/produits/alliance-mosaique/rose-t.jpg"
+   }
+  },
+  {
+   "id": "alliance-coeurs",
+   "nom": "Alliance Cœurs",
+   "cat": "bagues",
+   "pierre": "Cœur",
+   "img": {
+    "rose": "img/produits/alliance-coeurs/rose.jpg",
+    "jaune": "img/produits/alliance-coeurs/jaune.jpg",
+    "blanc": "img/produits/alliance-coeurs/blanc.jpg"
+   },
+   "thumb": {
+    "rose": "img/produits/alliance-coeurs/rose-t.jpg",
+    "jaune": "img/produits/alliance-coeurs/jaune-t.jpg",
+    "blanc": "img/produits/alliance-coeurs/blanc-t.jpg"
+   }
+  },
+  {
+   "id": "bracelet-tennis-noir",
+   "nom": "Bracelet Tennis Noir",
+   "cat": "bracelets",
+   "pierre": "Rond",
+   "img": {
+    "jaune": "img/produits/bracelet-tennis-noir/jaune.jpg",
+    "rose": "img/produits/bracelet-tennis-noir/rose.jpg",
+    "blanc": "img/produits/bracelet-tennis-noir/blanc.jpg"
+   },
+   "thumb": {
+    "jaune": "img/produits/bracelet-tennis-noir/jaune-t.jpg",
+    "rose": "img/produits/bracelet-tennis-noir/rose-t.jpg",
+    "blanc": "img/produits/bracelet-tennis-noir/blanc-t.jpg"
+   }
+  },
+  {
+   "id": "bracelet-jonc-coeur-diamant",
+   "nom": "Bracelet Jonc Cœur",
+   "cat": "bracelets",
+   "pierre": "Cœur",
+   "img": {
+    "jaune": "img/produits/bracelet-jonc-coeur-diamant/jaune.jpg",
+    "rose": "img/produits/bracelet-jonc-coeur-diamant/rose.jpg",
+    "blanc": "img/produits/bracelet-jonc-coeur-diamant/blanc.jpg"
+   },
+   "thumb": {
+    "jaune": "img/produits/bracelet-jonc-coeur-diamant/jaune-t.jpg",
+    "rose": "img/produits/bracelet-jonc-coeur-diamant/rose-t.jpg",
+    "blanc": "img/produits/bracelet-jonc-coeur-diamant/blanc-t.jpg"
+   }
+  },
+  {
+   "id": "piercing-septum-soleil",
+   "nom": "Piercing Septum Soleil",
+   "cat": "piercings",
+   "pierre": "Baguette",
+   "img": {
+    "blanc": "img/produits/piercing-septum-soleil/blanc.jpg",
+    "rose": "img/produits/piercing-septum-soleil/rose.jpg",
+    "jaune": "img/produits/piercing-septum-soleil/jaune.jpg"
+   },
+   "thumb": {
+    "blanc": "img/produits/piercing-septum-soleil/blanc-t.jpg",
+    "rose": "img/produits/piercing-septum-soleil/rose-t.jpg",
+    "jaune": "img/produits/piercing-septum-soleil/jaune-t.jpg"
+   }
+  },
+  {
+   "id": "collier-diamants-illusion",
+   "nom": "Collier Diamants Illusion",
+   "cat": "colliers",
+   "pierre": "Rond",
+   "img": {
+    "blanc": "img/produits/collier-diamants-illusion/blanc.jpg",
+    "rose": "img/produits/collier-diamants-illusion/rose.jpg",
+    "jaune": "img/produits/collier-diamants-illusion/jaune.jpg"
+   },
+   "thumb": {
+    "blanc": "img/produits/collier-diamants-illusion/blanc-t.jpg",
+    "rose": "img/produits/collier-diamants-illusion/rose-t.jpg",
+    "jaune": "img/produits/collier-diamants-illusion/jaune-t.jpg"
+   }
+  },
+  {
+   "id": "boucle-jacket-baguettes",
+   "nom": "Boucle Jacket Baguettes",
+   "cat": "boucles",
+   "pierre": "Baguette",
+   "img": {
+    "jaune": "img/produits/boucle-jacket-baguettes/jaune.jpg",
+    "blanc": "img/produits/boucle-jacket-baguettes/blanc.jpg",
+    "rose": "img/produits/boucle-jacket-baguettes/rose.jpg"
+   },
+   "thumb": {
+    "jaune": "img/produits/boucle-jacket-baguettes/jaune-t.jpg",
+    "blanc": "img/produits/boucle-jacket-baguettes/blanc-t.jpg",
+    "rose": "img/produits/boucle-jacket-baguettes/rose-t.jpg"
+   }
+  },
+  {
+   "id": "boucle-pampille-degradee",
+   "nom": "Boucle Pampille Dégradée",
+   "cat": "boucles",
+   "pierre": "Poire",
+   "img": {
+    "jaune": "img/produits/boucle-pampille-degradee/jaune.jpg",
+    "rose": "img/produits/boucle-pampille-degradee/rose.jpg",
+    "blanc": "img/produits/boucle-pampille-degradee/blanc.jpg"
+   },
+   "thumb": {
+    "jaune": "img/produits/boucle-pampille-degradee/jaune-t.jpg",
+    "rose": "img/produits/boucle-pampille-degradee/rose-t.jpg",
+    "blanc": "img/produits/boucle-pampille-degradee/blanc-t.jpg"
+   }
+  },
+  {
+   "id": "bague-ovale-soleil",
+   "nom": "Bague Ovale Soleil",
+   "cat": "bagues",
+   "pierre": "Ovale",
+   "img": {
+    "jaune": "img/produits/bague-ovale-soleil/jaune.jpg",
+    "blanc": "img/produits/bague-ovale-soleil/blanc.jpg"
+   },
+   "thumb": {
+    "jaune": "img/produits/bague-ovale-soleil/jaune-t.jpg",
+    "blanc": "img/produits/bague-ovale-soleil/blanc-t.jpg"
+   }
+  },
+  {
+   "id": "bague-vague-diamants",
+   "nom": "Bague Vague Diamants",
+   "cat": "bagues",
+   "pierre": "Rond",
+   "img": {
+    "rose": "img/produits/bague-vague-diamants/rose.jpg",
+    "jaune": "img/produits/bague-vague-diamants/jaune.jpg",
+    "blanc": "img/produits/bague-vague-diamants/blanc.jpg"
+   },
+   "thumb": {
+    "rose": "img/produits/bague-vague-diamants/rose-t.jpg",
+    "jaune": "img/produits/bague-vague-diamants/jaune-t.jpg",
+    "blanc": "img/produits/bague-vague-diamants/blanc-t.jpg"
+   }
+  },
+  {
+   "id": "boucle-grimpante-onyx",
+   "nom": "Boucle Grimpante Onyx",
+   "cat": "boucles",
+   "pierre": "Marquise",
+   "img": {
+    "rose": "img/produits/boucle-grimpante-onyx/rose.jpg",
+    "jaune": "img/produits/boucle-grimpante-onyx/jaune.jpg",
+    "blanc": "img/produits/boucle-grimpante-onyx/blanc.jpg"
+   },
+   "thumb": {
+    "rose": "img/produits/boucle-grimpante-onyx/rose-t.jpg",
+    "jaune": "img/produits/boucle-grimpante-onyx/jaune-t.jpg",
+    "blanc": "img/produits/boucle-grimpante-onyx/blanc-t.jpg"
+   }
+  },
+  {
+   "id": "boucle-trio-marquises",
+   "nom": "Boucle Trio Marquises",
+   "cat": "boucles",
+   "pierre": "Marquise",
+   "img": {
+    "jaune": "img/produits/boucle-trio-marquises/jaune.jpg",
+    "rose": "img/produits/boucle-trio-marquises/rose.jpg"
+   },
+   "thumb": {
+    "jaune": "img/produits/boucle-trio-marquises/jaune-t.jpg",
+    "rose": "img/produits/boucle-trio-marquises/rose-t.jpg"
+   }
+  },
+  {
+   "id": "bracelet-jonc-poire-station",
+   "nom": "Bracelet Jonc Poire",
+   "cat": "bracelets",
+   "pierre": "Poire",
+   "img": {
+    "jaune": "img/produits/bracelet-jonc-poire-station/jaune.jpg",
+    "rose": "img/produits/bracelet-jonc-poire-station/rose.jpg"
+   },
+   "thumb": {
+    "jaune": "img/produits/bracelet-jonc-poire-station/jaune-t.jpg",
+    "rose": "img/produits/bracelet-jonc-poire-station/rose-t.jpg"
+   }
+  },
+  {
+   "id": "bracelet-pampilles-poires",
+   "nom": "Bracelet Pampilles Poires",
+   "cat": "bracelets",
+   "pierre": "Poire",
+   "img": {
+    "rose": "img/produits/bracelet-pampilles-poires/rose.jpg",
+    "blanc": "img/produits/bracelet-pampilles-poires/blanc.jpg"
+   },
+   "thumb": {
+    "rose": "img/produits/bracelet-pampilles-poires/rose-t.jpg",
+    "blanc": "img/produits/bracelet-pampilles-poires/blanc-t.jpg"
+   }
+  },
+  {
+   "id": "bracelet-jonc-station",
+   "nom": "Bracelet Jonc Station",
+   "cat": "bracelets",
+   "pierre": "Rond",
+   "img": {
+    "jaune": "img/produits/bracelet-jonc-station/jaune.jpg",
+    "blanc": "img/produits/bracelet-jonc-station/blanc.jpg"
+   },
+   "thumb": {
+    "jaune": "img/produits/bracelet-jonc-station/jaune-t.jpg",
+    "blanc": "img/produits/bracelet-jonc-station/blanc-t.jpg"
+   }
+  },
+  {
+   "id": "bracelet-chaine-fine-diamants",
+   "nom": "Bracelet Chaîne Fine",
+   "cat": "bracelets",
+   "pierre": "Rond",
+   "img": {
+    "jaune": "img/produits/bracelet-chaine-fine-diamants/jaune.jpg",
+    "blanc": "img/produits/bracelet-chaine-fine-diamants/blanc.jpg"
+   },
+   "thumb": {
+    "jaune": "img/produits/bracelet-chaine-fine-diamants/jaune-t.jpg",
+    "blanc": "img/produits/bracelet-chaine-fine-diamants/blanc-t.jpg"
+   }
+  },
+  {
+   "id": "bracelet-jonc-fin-diamants",
+   "nom": "Bracelet Jonc Fin",
+   "cat": "bracelets",
+   "pierre": "Rond",
+   "img": {
+    "rose": "img/produits/bracelet-jonc-fin-diamants/rose.jpg",
+    "blanc": "img/produits/bracelet-jonc-fin-diamants/blanc.jpg"
+   },
+   "thumb": {
+    "rose": "img/produits/bracelet-jonc-fin-diamants/rose-t.jpg",
+    "blanc": "img/produits/bracelet-jonc-fin-diamants/blanc-t.jpg"
+   }
+  },
+  {
+   "id": "bracelet-jonc-pave-diamants",
+   "nom": "Bracelet Jonc Pavé",
+   "cat": "bracelets",
+   "pierre": "Pavé",
+   "img": {
+    "jaune": "img/produits/bracelet-jonc-pave-diamants/jaune.jpg",
+    "rose": "img/produits/bracelet-jonc-pave-diamants/rose.jpg"
+   },
+   "thumb": {
+    "jaune": "img/produits/bracelet-jonc-pave-diamants/jaune-t.jpg",
+    "rose": "img/produits/bracelet-jonc-pave-diamants/rose-t.jpg"
+   }
+  },
+  {
+   "id": "collier-coeur-pendentif-fin",
+   "nom": "Collier Cœur Pendentif",
+   "cat": "colliers",
+   "pierre": "Cœur",
+   "img": {
+    "jaune": "img/produits/collier-coeur-pendentif-fin/jaune.jpg",
+    "rose": "img/produits/collier-coeur-pendentif-fin/rose.jpg"
+   },
+   "thumb": {
+    "jaune": "img/produits/collier-coeur-pendentif-fin/jaune-t.jpg",
+    "rose": "img/produits/collier-coeur-pendentif-fin/rose-t.jpg"
+   }
+  },
+  {
+   "id": "collier-lariat-minimaliste",
+   "nom": "Collier Lariat Minimaliste",
+   "cat": "colliers",
+   "pierre": "Rond",
+   "img": {
+    "blanc": "img/produits/collier-lariat-minimaliste/blanc.jpg"
+   },
+   "thumb": {
+    "blanc": "img/produits/collier-lariat-minimaliste/blanc-t.jpg"
+   }
+  },
+  {
+   "id": "bague-emeraude-verte",
+   "nom": "Bague Émeraude Verte",
+   "cat": "bagues",
+   "pierre": "Émeraude",
+   "img": {
+    "blanc": "img/produits/bague-emeraude-verte/blanc.jpg"
+   },
+   "thumb": {
+    "blanc": "img/produits/bague-emeraude-verte/blanc-t.jpg"
+   }
+  },
+  {
+   "id": "bague-poire-asymetrique",
+   "nom": "Bague Poire Asymétrique",
+   "cat": "bagues",
+   "pierre": "Poire",
+   "img": {
+    "rose": "img/produits/bague-poire-asymetrique/rose.jpg"
+   },
+   "thumb": {
+    "rose": "img/produits/bague-poire-asymetrique/rose-t.jpg"
+   }
+  },
+  {
+   "id": "bague-poire-asymetrique-doree",
+   "nom": "Bague Poire Asymétrique Dorée",
+   "cat": "bagues",
+   "pierre": "Poire",
+   "img": {
+    "jaune": "img/produits/bague-poire-asymetrique-doree/jaune.jpg"
+   },
+   "thumb": {
+    "jaune": "img/produits/bague-poire-asymetrique-doree/jaune-t.jpg"
+   }
+  },
+  {
+   "id": "piercing-labret-eventail",
+   "nom": "Piercing Labret Éventail",
+   "cat": "piercings",
+   "pierre": "Rond",
+   "img": {
+    "blanc": "img/produits/piercing-labret-eventail/blanc.jpg"
+   },
+   "thumb": {
+    "blanc": "img/produits/piercing-labret-eventail/blanc-t.jpg"
+   }
+  },
+  {
+   "id": "collier-lariat-double-pampille",
+   "nom": "Collier Lariat Double Pampille",
+   "cat": "colliers",
+   "pierre": "Rond",
+   "img": {
+    "jaune": "img/produits/collier-lariat-double-pampille/jaune.jpg"
+   },
+   "thumb": {
+    "jaune": "img/produits/collier-lariat-double-pampille/jaune-t.jpg"
+   }
+  },
+  {
+   "id": "collier-lariat-dore",
+   "nom": "Collier Lariat Doré",
+   "cat": "colliers",
+   "pierre": "Rond",
+   "img": {
+    "jaune": "img/produits/collier-lariat-dore/jaune.jpg"
+   },
+   "thumb": {
+    "jaune": "img/produits/collier-lariat-dore/jaune-t.jpg"
+   }
+  },
+  {
+   "id": "piercing-labret-degrade",
+   "nom": "Piercing Labret Dégradé",
+   "cat": "piercings",
+   "pierre": "Rond",
+   "img": {
+    "blanc": "img/produits/piercing-labret-degrade/blanc.jpg"
+   },
+   "thumb": {
+    "blanc": "img/produits/piercing-labret-degrade/blanc-t.jpg"
+   }
+  },
+  {
+   "id": "boucle-grappe-marquise",
+   "nom": "Boucle Grappe Marquise",
+   "cat": "boucles",
+   "pierre": "Marquise",
+   "img": {
+    "jaune": "img/produits/boucle-grappe-marquise/jaune.jpg"
+   },
+   "thumb": {
+    "jaune": "img/produits/boucle-grappe-marquise/jaune-t.jpg"
+   }
+  },
+  {
+   "id": "bracelet-jonc-diamants-rose",
+   "nom": "Bracelet Jonc Diamants Rosé",
+   "cat": "bracelets",
+   "pierre": "Rond",
+   "img": {
+    "rose": "img/produits/bracelet-jonc-diamants-rose/rose.jpg"
+   },
+   "thumb": {
+    "rose": "img/produits/bracelet-jonc-diamants-rose/rose-t.jpg"
+   }
+  },
+  {
+   "id": "piercing-labret-trinite",
+   "nom": "Piercing Labret Trinité",
+   "cat": "piercings",
+   "pierre": "Poire",
+   "img": {
+    "blanc": "img/produits/piercing-labret-trinite/blanc.jpg"
+   },
+   "thumb": {
+    "blanc": "img/produits/piercing-labret-trinite/blanc-t.jpg"
+   }
+  },
+  {
+   "id": "bague-grappe-asymetrique",
+   "nom": "Bague Grappe Asymétrique",
+   "cat": "bagues",
+   "pierre": "Marquise",
+   "img": {
+    "blanc": "img/produits/bague-grappe-asymetrique/blanc.jpg"
+   },
+   "thumb": {
+    "blanc": "img/produits/bague-grappe-asymetrique/blanc-t.jpg"
+   }
+  },
+  {
+   "id": "bague-poire-trilogie",
+   "nom": "Bague Poire Trilogie",
+   "cat": "bagues",
+   "pierre": "Poire",
+   "img": {
+    "blanc": "img/produits/bague-poire-trilogie/blanc.jpg"
+   },
+   "thumb": {
+    "blanc": "img/produits/bague-poire-trilogie/blanc-t.jpg"
+   }
+  },
+  {
+   "id": "collier-lariat-pampille",
+   "nom": "Collier Lariat Pampille",
+   "cat": "colliers",
+   "pierre": "Rond",
+   "img": {
+    "blanc": "img/produits/collier-lariat-pampille/blanc.jpg"
+   },
+   "thumb": {
+    "blanc": "img/produits/collier-lariat-pampille/blanc-t.jpg"
+   }
+  },
+  {
+   "id": "alliance-degradee",
+   "nom": "Alliance Dégradée",
+   "cat": "bagues",
+   "pierre": "Rond",
+   "img": {
+    "rose": "img/produits/alliance-degradee/rose.jpg"
+   },
+   "thumb": {
+    "rose": "img/produits/alliance-degradee/rose-t.jpg"
+   }
+  },
+  {
+   "id": "piercing-labret-eventail-rose",
+   "nom": "Piercing Labret Éventail Rosé",
+   "cat": "piercings",
+   "pierre": "Rond",
+   "img": {
+    "rose": "img/produits/piercing-labret-eventail-rose/rose.jpg"
+   },
+   "thumb": {
+    "rose": "img/produits/piercing-labret-eventail-rose/rose-t.jpg"
+   }
+  },
+  {
+   "id": "collier-initiale-f",
+   "nom": "Collier Initiale F",
+   "cat": "colliers",
+   "pierre": "Rond",
+   "img": {
+    "rose": "img/produits/collier-initiale-f/rose.jpg"
+   },
+   "thumb": {
+    "rose": "img/produits/collier-initiale-f/rose-t.jpg"
+   }
+  },
+  {
+   "id": "collier-coeur-diamants-tennis",
+   "nom": "Collier Cœur Diamants",
+   "cat": "colliers",
+   "pierre": "Cœur",
+   "img": {
+    "blanc": "img/produits/collier-coeur-diamants-tennis/blanc.jpg"
+   },
+   "thumb": {
+    "blanc": "img/produits/collier-coeur-diamants-tennis/blanc-t.jpg"
+   }
+  },
+  {
+   "id": "bague-emeraude-verte-rose",
+   "nom": "Bague Émeraude Verte Rosée",
+   "cat": "bagues",
+   "pierre": "Émeraude",
+   "img": {
+    "rose": "img/produits/bague-emeraude-verte-rose/rose.jpg"
+   },
+   "thumb": {
+    "rose": "img/produits/bague-emeraude-verte-rose/rose-t.jpg"
+   }
+  },
+  {
+   "id": "piercing-labret-eventail-dore",
+   "nom": "Piercing Labret Éventail Doré",
+   "cat": "piercings",
+   "pierre": "Rond",
+   "img": {
+    "jaune": "img/produits/piercing-labret-eventail-dore/jaune.jpg"
+   },
+   "thumb": {
+    "jaune": "img/produits/piercing-labret-eventail-dore/jaune-t.jpg"
+   }
+  },
+  {
+   "id": "boucle-grappe-marquise-rose",
+   "nom": "Boucle Grappe Marquise Rosée",
+   "cat": "boucles",
+   "pierre": "Marquise",
+   "img": {
+    "rose": "img/produits/boucle-grappe-marquise-rose/rose.jpg"
+   },
+   "thumb": {
+    "rose": "img/produits/boucle-grappe-marquise-rose/rose-t.jpg"
+   }
+  },
+  {
+   "id": "bague-emeraude-trilogie",
+   "nom": "Bague Émeraude Trilogie",
+   "cat": "bagues",
+   "pierre": "Émeraude",
+   "img": {
+    "rose": "img/produits/bague-emeraude-trilogie/rose.jpg"
+   },
+   "thumb": {
+    "rose": "img/produits/bague-emeraude-trilogie/rose-t.jpg"
+   }
+  },
+  {
+   "id": "piercing-labret-eventail-rose-2",
+   "nom": "Piercing Labret Éventail Rosé II",
+   "cat": "piercings",
+   "pierre": "Rond",
+   "img": {
+    "rose": "img/produits/piercing-labret-eventail-rose-2/rose.jpg"
+   },
+   "thumb": {
+    "rose": "img/produits/piercing-labret-eventail-rose-2/rose-t.jpg"
+   }
+  },
+  {
+   "id": "creole-fine-minimaliste",
+   "nom": "Créole Fine Minimaliste",
+   "cat": "boucles",
+   "pierre": "Rond",
+   "img": {
+    "blanc": "img/produits/creole-fine-minimaliste/blanc.jpg"
+   },
+   "thumb": {
+    "blanc": "img/produits/creole-fine-minimaliste/blanc-t.jpg"
+   }
+  },
+  {
+   "id": "bague-marquise-halo-statement",
+   "nom": "Bague Marquise Halo Statement",
+   "cat": "bagues",
+   "pierre": "Marquise",
+   "img": {
+    "rose": "img/produits/bague-marquise-halo-statement/rose.jpg"
+   },
+   "thumb": {
+    "rose": "img/produits/bague-marquise-halo-statement/rose-t.jpg"
+   }
+  },
+  {
+   "id": "piercing-labret-eventail-dore-2",
+   "nom": "Piercing Labret Éventail Doré II",
+   "cat": "piercings",
+   "pierre": "Rond",
+   "img": {
+    "jaune": "img/produits/piercing-labret-eventail-dore-2/jaune.jpg"
+   },
+   "thumb": {
+    "jaune": "img/produits/piercing-labret-eventail-dore-2/jaune-t.jpg"
+   }
+  },
+  {
+   "id": "collier-lariat-fin",
+   "nom": "Collier Lariat Fin",
+   "cat": "colliers",
+   "pierre": "Rond",
+   "img": {
+    "blanc": "img/produits/collier-lariat-fin/blanc.jpg"
+   },
+   "thumb": {
+    "blanc": "img/produits/collier-lariat-fin/blanc-t.jpg"
+   }
+  },
+  {
+   "id": "collier-initiale-e",
+   "nom": "Collier Initiale E",
+   "cat": "colliers",
+   "pierre": "Rond",
+   "img": {
+    "blanc": "img/produits/collier-initiale-e/blanc.jpg"
+   },
+   "thumb": {
+    "blanc": "img/produits/collier-initiale-e/blanc-t.jpg"
+   }
+  },
+  {
+   "id": "boucle-pampille-double",
+   "nom": "Boucle Pampille Double",
+   "cat": "boucles",
+   "pierre": "Rond",
+   "img": {
+    "blanc": "img/produits/boucle-pampille-double/blanc.jpg"
+   },
+   "thumb": {
+    "blanc": "img/produits/boucle-pampille-double/blanc-t.jpg"
+   }
+  },
+  {
+   "id": "bracelet-chaine-coulissante",
+   "nom": "Bracelet Chaîne Coulissante",
+   "cat": "bracelets",
+   "pierre": "Rond",
+   "img": {
+    "rose": "img/produits/bracelet-chaine-coulissante/rose.jpg"
+   },
+   "thumb": {
+    "rose": "img/produits/bracelet-chaine-coulissante/rose-t.jpg"
+   }
+  },
+  {
+   "id": "collier-lariat-classique",
+   "nom": "Collier Lariat Classique",
+   "cat": "colliers",
+   "pierre": "Rond",
+   "img": {
+    "blanc": "img/produits/collier-lariat-classique/blanc.jpg"
+   },
+   "thumb": {
+    "blanc": "img/produits/collier-lariat-classique/blanc-t.jpg"
+   }
+  },
+  {
+   "id": "boucle-pampilles-rondes",
+   "nom": "Boucle Pampilles Rondes",
+   "cat": "boucles",
+   "pierre": "Rond",
+   "img": {
+    "jaune": "img/produits/boucle-pampilles-rondes/jaune.jpg"
+   },
+   "thumb": {
+    "jaune": "img/produits/boucle-pampilles-rondes/jaune-t.jpg"
+   }
+  },
+  {
+   "id": "bracelet-jonc-fin-dore",
+   "nom": "Bracelet Jonc Fin Doré",
+   "cat": "bracelets",
+   "pierre": "Rond",
+   "img": {
+    "jaune": "img/produits/bracelet-jonc-fin-dore/jaune.jpg"
+   },
+   "thumb": {
+    "jaune": "img/produits/bracelet-jonc-fin-dore/jaune-t.jpg"
+   }
+  },
+  {
+   "id": "collier-lariat-breloque",
+   "nom": "Collier Lariat Avec Breloque",
+   "cat": "colliers",
+   "pierre": "Rond",
+   "img": {
+    "blanc": "img/produits/collier-lariat-breloque/blanc.jpg"
+   },
+   "thumb": {
+    "blanc": "img/produits/collier-lariat-breloque/blanc-t.jpg"
+   }
+  },
+  {
+   "id": "collier-lariat-simple",
+   "nom": "Collier Lariat Simple",
+   "cat": "colliers",
+   "pierre": "Rond",
+   "img": {
+    "blanc": "img/produits/collier-lariat-simple/blanc.jpg"
+   },
+   "thumb": {
+    "blanc": "img/produits/collier-lariat-simple/blanc-t.jpg"
+   }
   }
  ]
 }

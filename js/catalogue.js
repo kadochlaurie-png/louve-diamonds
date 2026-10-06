@@ -1,7 +1,7 @@
 window.DATA_READY.then(function(P){
 const q=new URLSearchParams(location.search);
 let cat=q.get('cat')||'all', term='';
-const CATS=['all','bagues','colliers','bracelets','boucles'];
+const CATS=['all','bagues','colliers','bracelets','boucles','piercings'];
 const el=id=>document.getElementById(id);
 const catName=c=>c==='all'?t('c.allj'):t('cat.'+c);
 function draw(){

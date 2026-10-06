@@ -754,12 +754,14 @@
       "cat": "bagues",
       "pierre": "Ovale",
       "img": {
+        "blanc": "img/produits/bague-ovale-soleil/blanc.jpg",
         "jaune": "img/produits/bague-ovale-soleil/jaune.jpg",
-        "blanc": "img/produits/bague-ovale-soleil/blanc.jpg"
+        "rose": "img/produits/bague-ovale-soleil/rose.jpg"
       },
       "thumb": {
+        "blanc": "img/produits/bague-ovale-soleil/blanc-t.jpg",
         "jaune": "img/produits/bague-ovale-soleil/jaune-t.jpg",
-        "blanc": "img/produits/bague-ovale-soleil/blanc-t.jpg"
+        "rose": "img/produits/bague-ovale-soleil/rose-t.jpg"
       }
     },
     {
@@ -893,27 +895,19 @@
       }
     },
     {
-      "id": "collier-lariat-minimaliste",
-      "nom": "Collier Lariat Minimaliste",
-      "cat": "colliers",
-      "pierre": "Rond",
-      "img": {
-        "blanc": "img/produits/collier-lariat-minimaliste/blanc.jpg"
-      },
-      "thumb": {
-        "blanc": "img/produits/collier-lariat-minimaliste/blanc-t.jpg"
-      }
-    },
-    {
       "id": "bague-emeraude-verte",
       "nom": "Bague Émeraude Verte",
       "cat": "bagues",
       "pierre": "Émeraude",
       "img": {
-        "blanc": "img/produits/bague-emeraude-verte/blanc.jpg"
+        "blanc": "img/produits/bague-emeraude-verte/blanc.jpg",
+        "jaune": "img/produits/bague-emeraude-verte/jaune.jpg",
+        "rose": "img/produits/bague-emeraude-verte/rose.jpg"
       },
       "thumb": {
-        "blanc": "img/produits/bague-emeraude-verte/blanc-t.jpg"
+        "blanc": "img/produits/bague-emeraude-verte/blanc-t.jpg",
+        "jaune": "img/produits/bague-emeraude-verte/jaune-t.jpg",
+        "rose": "img/produits/bague-emeraude-verte/rose-t.jpg"
       }
     },
     {
@@ -922,22 +916,14 @@
       "cat": "bagues",
       "pierre": "Poire",
       "img": {
+        "blanc": "img/produits/bague-poire-asymetrique/blanc.jpg",
+        "jaune": "img/produits/bague-poire-asymetrique/jaune.jpg",
         "rose": "img/produits/bague-poire-asymetrique/rose.jpg"
       },
       "thumb": {
+        "blanc": "img/produits/bague-poire-asymetrique/blanc-t.jpg",
+        "jaune": "img/produits/bague-poire-asymetrique/jaune-t.jpg",
         "rose": "img/produits/bague-poire-asymetrique/rose-t.jpg"
-      }
-    },
-    {
-      "id": "bague-poire-asymetrique-doree",
-      "nom": "Bague Poire Asymétrique Dorée",
-      "cat": "bagues",
-      "pierre": "Poire",
-      "img": {
-        "jaune": "img/produits/bague-poire-asymetrique-doree/jaune.jpg"
-      },
-      "thumb": {
-        "jaune": "img/produits/bague-poire-asymetrique-doree/jaune-t.jpg"
       }
     },
     {
@@ -950,18 +936,6 @@
       },
       "thumb": {
         "jaune": "img/produits/collier-lariat-double-pampille/jaune-t.jpg"
-      }
-    },
-    {
-      "id": "collier-lariat-dore",
-      "nom": "Collier Lariat Doré",
-      "cat": "colliers",
-      "pierre": "Rond",
-      "img": {
-        "jaune": "img/produits/collier-lariat-dore/jaune.jpg"
-      },
-      "thumb": {
-        "jaune": "img/produits/collier-lariat-dore/jaune-t.jpg"
       }
     },
     {
@@ -1025,30 +999,6 @@
       }
     },
     {
-      "id": "bague-grappe-asymetrique",
-      "nom": "Bague Grappe Asymétrique",
-      "cat": "bagues",
-      "pierre": "Marquise",
-      "img": {
-        "blanc": "img/produits/bague-grappe-asymetrique/blanc.jpg"
-      },
-      "thumb": {
-        "blanc": "img/produits/bague-grappe-asymetrique/blanc-t.jpg"
-      }
-    },
-    {
-      "id": "bague-poire-trilogie",
-      "nom": "Bague Poire Trilogie",
-      "cat": "bagues",
-      "pierre": "Poire",
-      "img": {
-        "blanc": "img/produits/bague-poire-trilogie/blanc.jpg"
-      },
-      "thumb": {
-        "blanc": "img/produits/bague-poire-trilogie/blanc-t.jpg"
-      }
-    },
-    {
       "id": "collier-lariat-pampille",
       "nom": "Collier Lariat Pampille",
       "cat": "colliers",
@@ -1097,30 +1047,6 @@
       }
     },
     {
-      "id": "bague-emeraude-verte-rose",
-      "nom": "Bague Émeraude Verte Rosée",
-      "cat": "bagues",
-      "pierre": "Émeraude",
-      "img": {
-        "rose": "img/produits/bague-emeraude-verte-rose/rose.jpg"
-      },
-      "thumb": {
-        "rose": "img/produits/bague-emeraude-verte-rose/rose-t.jpg"
-      }
-    },
-    {
-      "id": "bague-emeraude-trilogie",
-      "nom": "Bague Émeraude Trilogie",
-      "cat": "bagues",
-      "pierre": "Émeraude",
-      "img": {
-        "rose": "img/produits/bague-emeraude-trilogie/rose.jpg"
-      },
-      "thumb": {
-        "rose": "img/produits/bague-emeraude-trilogie/rose-t.jpg"
-      }
-    },
-    {
       "id": "creole-fine-minimaliste",
       "nom": "Créole Fine Minimaliste",
       "cat": "boucles",
@@ -1130,30 +1056,6 @@
       },
       "thumb": {
         "blanc": "img/produits/creole-fine-minimaliste/blanc-t.jpg"
-      }
-    },
-    {
-      "id": "bague-marquise-halo-statement",
-      "nom": "Bague Marquise Halo Statement",
-      "cat": "bagues",
-      "pierre": "Marquise",
-      "img": {
-        "rose": "img/produits/bague-marquise-halo-statement/rose.jpg"
-      },
-      "thumb": {
-        "rose": "img/produits/bague-marquise-halo-statement/rose-t.jpg"
-      }
-    },
-    {
-      "id": "collier-lariat-fin",
-      "nom": "Collier Lariat Fin",
-      "cat": "colliers",
-      "pierre": "Rond",
-      "img": {
-        "blanc": "img/produits/collier-lariat-fin/blanc.jpg"
-      },
-      "thumb": {
-        "blanc": "img/produits/collier-lariat-fin/blanc-t.jpg"
       }
     },
     {
@@ -1193,18 +1095,6 @@
       }
     },
     {
-      "id": "collier-lariat-classique",
-      "nom": "Collier Lariat Classique",
-      "cat": "colliers",
-      "pierre": "Rond",
-      "img": {
-        "blanc": "img/produits/collier-lariat-classique/blanc.jpg"
-      },
-      "thumb": {
-        "blanc": "img/produits/collier-lariat-classique/blanc-t.jpg"
-      }
-    },
-    {
       "id": "boucle-pampilles-rondes",
       "nom": "Boucle Pampilles Rondes",
       "cat": "boucles",
@@ -1234,10 +1124,14 @@
       "cat": "colliers",
       "pierre": "Rond",
       "img": {
-        "blanc": "img/produits/collier-lariat-breloque/blanc.jpg"
+        "blanc": "img/produits/collier-lariat-breloque/blanc.jpg",
+        "jaune": "img/produits/collier-lariat-breloque/jaune.jpg",
+        "rose": "img/produits/collier-lariat-breloque/rose.jpg"
       },
       "thumb": {
-        "blanc": "img/produits/collier-lariat-breloque/blanc-t.jpg"
+        "blanc": "img/produits/collier-lariat-breloque/blanc-t.jpg",
+        "jaune": "img/produits/collier-lariat-breloque/jaune-t.jpg",
+        "rose": "img/produits/collier-lariat-breloque/rose-t.jpg"
       }
     },
     {
@@ -1246,10 +1140,14 @@
       "cat": "colliers",
       "pierre": "Rond",
       "img": {
-        "blanc": "img/produits/collier-lariat-simple/blanc.jpg"
+        "blanc": "img/produits/collier-lariat-simple/blanc.jpg",
+        "jaune": "img/produits/collier-lariat-simple/jaune.jpg",
+        "rose": "img/produits/collier-lariat-simple/rose.jpg"
       },
       "thumb": {
-        "blanc": "img/produits/collier-lariat-simple/blanc-t.jpg"
+        "blanc": "img/produits/collier-lariat-simple/blanc-t.jpg",
+        "jaune": "img/produits/collier-lariat-simple/jaune-t.jpg",
+        "rose": "img/produits/collier-lariat-simple/rose-t.jpg"
       }
     }
   ]

@@ -3,7 +3,7 @@ var D={
 fr:{
 "nav.home":"Accueil","nav.bagues":"Bagues","nav.colliers":"Colliers","nav.bracelets":"Bracelets","nav.boucles":"Boucles d'oreilles","nav.piercings":"Piercings","nav.sur":"Sur mesure","nav.apropos":"À propos","nav.contact":"Contact",
 "brand":"Louve Diamonds","arrow":"→",
-"f.tag":"Des bijoux intemporels conçus pour sublimer chaque instant.","f.coll":"Collections","f.maison":"Maison","f.contact":"Contact","f.sur":"Création sur mesure","f.copy":"Tous droits réservés",
+"f.tag":"Des bijoux intemporels conçus pour sublimer chaque instant.","f.coll":"Collections","f.maison":"Maison","f.contact":"Contact","f.sur":"Création sur mesure","f.copy":"Tous droits réservés","f.ship":"Livraison dans le monde entier",
 "msg.gen":"Bonjour Louve Diamonds, je souhaite un renseignement.","msg.sur":"Bonjour Louve Diamonds, je souhaite créer un bijou sur mesure.",
 "title.home":"Louve Diamonds — Bijoux en diamants","title.sur":"Création sur mesure — Louve Diamonds","title.apropos":"À propos — Louve Diamonds","title.contact":"Contact — Louve Diamonds","title.cat":"Collection — Louve Diamonds",
 "h.p":"Des bijoux intemporels conçus pour sublimer chaque instant.","h.btn":"Découvrir la collection",
@@ -25,7 +25,7 @@ fr:{
 en:{
 "nav.home":"Home","nav.bagues":"Rings","nav.colliers":"Necklaces","nav.bracelets":"Bracelets","nav.boucles":"Earrings","nav.piercings":"Piercings","nav.sur":"Custom Design","nav.apropos":"About","nav.contact":"Contact",
 "brand":"Louve Diamonds","arrow":"→",
-"f.tag":"Timeless jewelry designed to make every moment shine.","f.coll":"Collections","f.maison":"The House","f.contact":"Contact","f.sur":"Custom design","f.copy":"All rights reserved",
+"f.tag":"Timeless jewelry designed to make every moment shine.","f.coll":"Collections","f.maison":"The House","f.contact":"Contact","f.sur":"Custom design","f.copy":"All rights reserved","f.ship":"Worldwide shipping",
 "msg.gen":"Hello Louve Diamonds, I would like some information.","msg.sur":"Hello Louve Diamonds, I would like to create a custom piece of jewelry.",
 "title.home":"Louve Diamonds — Diamond Jewelry","title.sur":"Custom Design — Louve Diamonds","title.apropos":"About — Louve Diamonds","title.contact":"Contact — Louve Diamonds","title.cat":"Collection — Louve Diamonds",
 "h.p":"Timeless jewelry designed to make every moment shine.","h.btn":"Discover the collection",
@@ -47,7 +47,7 @@ en:{
 he:{
 "nav.home":"בית","nav.bagues":"טבעות","nav.colliers":"שרשראות","nav.bracelets":"צמידים","nav.boucles":"עגילים","nav.piercings":"פירסינגים","nav.sur":"עיצוב אישי","nav.apropos":"אודות","nav.contact":"צור קשר",
 "brand":"לובה דיאמונדס","arrow":"←",
-"f.tag":"תכשיטים על-זמניים, שנוצרו כדי להאיר כל רגע.","f.coll":"קולקציות","f.maison":"הבית","f.contact":"צור קשר","f.sur":"עיצוב אישי","f.copy":"כל הזכויות שמורות",
+"f.tag":"תכשיטים על-זמניים, שנוצרו כדי להאיר כל רגע.","f.coll":"קולקציות","f.maison":"הבית","f.contact":"צור קשר","f.sur":"עיצוב אישי","f.copy":"כל הזכויות שמורות","f.ship":"משלוח לכל העולם",
 "msg.gen":"שלום לובה דיאמונדס, אשמח לקבל פרטים.","msg.sur":"שלום לובה דיאמונדס, אני מעוניינת ליצור תכשיט בעיצוב אישי.",
 "title.home":"לובה דיאמונדס — תכשיטי יהלומים","title.sur":"עיצוב אישי — לובה דיאמונדס","title.apropos":"אודות — לובה דיאמונדס","title.contact":"צור קשר — לובה דיאמונדס","title.cat":"הקולקציה — לובה דיאמונדס",
 "h.p":"תכשיטים על-זמניים, שנוצרו כדי להאיר כל רגע.","h.btn":"גלו את הקולקציה",

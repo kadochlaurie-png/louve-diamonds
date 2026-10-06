@@ -18,7 +18,7 @@ document.body.insertAdjacentHTML('beforeend',
 <div><h5>${t('f.coll')}</h5><ul><li><a href="catalogue.html?cat=bagues">${t('nav.bagues')}</a></li><li><a href="catalogue.html?cat=colliers">${t('nav.colliers')}</a></li><li><a href="catalogue.html?cat=bracelets">${t('nav.bracelets')}</a></li><li><a href="catalogue.html?cat=boucles">${t('nav.boucles')}</a></li><li><a href="catalogue.html?cat=piercings">${t('nav.piercings')}</a></li></ul></div>
 <div><h5>${t('f.maison')}</h5><ul><li><a href="sur-mesure.html">${t('f.sur')}</a></li><li><a href="a-propos.html">${t('nav.apropos')}</a></li><li><a href="contact.html">${t('nav.contact')}</a></li></ul></div>
 <div><h5>${t('f.contact')}</h5><ul><li><a href="${waLink(gm)}" target="_blank" rel="noopener">WhatsApp</a></li><li><a href="https://instagram.com/${L.instagram}" target="_blank" rel="noopener">Instagram</a></li><li><a href="mailto:${L.email}" dir="ltr">${L.email}</a></li><li>${t('ct.adv')}</li></ul></div>
-</div><div class="copy">© ${new Date().getFullYear()} ${t('brand')} — ${t('f.copy')}</div></div></footer>
+</div><div class="ship">${t('f.ship')}</div><div class="copy">© ${new Date().getFullYear()} ${t('brand')} — ${t('f.copy')}</div></div></footer>
 <a class="wafloat" href="${waLink(gm)}" target="_blank" rel="noopener" aria-label="WhatsApp">${WA}</a>`);
 document.getElementById('bg').onclick=()=>document.getElementById('nav').classList.toggle('open');
 document.querySelectorAll('.lang button').forEach(b=>b.onclick=()=>setLang(b.dataset.l));

@@ -1,19 +1,19 @@
 {
   "items": [
     {
-      "id": "bracelet-vague",
-      "nom": "Bracelet Vague",
-      "cat": "bracelets",
+      "id": "collier-vague",
+      "nom": "Collier Vague",
+      "cat": "colliers",
       "pierre": "Rond",
       "img": {
-        "blanc": "img/produits/bracelet-vague/blanc.jpg",
-        "jaune": "img/produits/bracelet-vague/jaune.jpg",
-        "rose": "img/produits/bracelet-vague/rose.jpg"
+        "blanc": "img/produits/collier-vague/blanc.jpg",
+        "jaune": "img/produits/collier-vague/jaune.jpg",
+        "rose": "img/produits/collier-vague/rose.jpg"
       },
       "thumb": {
-        "blanc": "img/produits/bracelet-vague/blanc-t.jpg",
-        "jaune": "img/produits/bracelet-vague/jaune-t.jpg",
-        "rose": "img/produits/bracelet-vague/rose-t.jpg"
+        "blanc": "img/produits/collier-vague/blanc-t.jpg",
+        "jaune": "img/produits/collier-vague/jaune-t.jpg",
+        "rose": "img/produits/collier-vague/rose-t.jpg"
       }
     },
     {
@@ -161,19 +161,19 @@
       }
     },
     {
-      "id": "bracelet-tennis-fin",
-      "nom": "Bracelet Tennis Fin",
-      "cat": "bracelets",
+      "id": "collier-tennis-fin",
+      "nom": "Collier Tennis Fin",
+      "cat": "colliers",
       "pierre": "Rond",
       "img": {
-        "blanc": "img/produits/bracelet-tennis-fin/blanc.jpg",
-        "jaune": "img/produits/bracelet-tennis-fin/jaune.jpg",
-        "rose": "img/produits/bracelet-tennis-fin/rose.jpg"
+        "blanc": "img/produits/collier-tennis-fin/blanc.jpg",
+        "jaune": "img/produits/collier-tennis-fin/jaune.jpg",
+        "rose": "img/produits/collier-tennis-fin/rose.jpg"
       },
       "thumb": {
-        "blanc": "img/produits/bracelet-tennis-fin/blanc-t.jpg",
-        "jaune": "img/produits/bracelet-tennis-fin/jaune-t.jpg",
-        "rose": "img/produits/bracelet-tennis-fin/rose-t.jpg"
+        "blanc": "img/produits/collier-tennis-fin/blanc-t.jpg",
+        "jaune": "img/produits/collier-tennis-fin/jaune-t.jpg",
+        "rose": "img/produits/collier-tennis-fin/rose-t.jpg"
       }
     },
     {
@@ -433,19 +433,19 @@
       }
     },
     {
-      "id": "bracelet-chaine-diamants",
-      "nom": "Bracelet Chaîne Diamants",
-      "cat": "bracelets",
+      "id": "collier-chaine-diamants",
+      "nom": "Collier Chaîne Diamants",
+      "cat": "colliers",
       "pierre": "Rond",
       "img": {
-        "jaune": "img/produits/bracelet-chaine-diamants/jaune.jpg",
-        "blanc": "img/produits/bracelet-chaine-diamants/blanc.jpg",
-        "rose": "img/produits/bracelet-chaine-diamants/rose.jpg"
+        "jaune": "img/produits/collier-chaine-diamants/jaune.jpg",
+        "blanc": "img/produits/collier-chaine-diamants/blanc.jpg",
+        "rose": "img/produits/collier-chaine-diamants/rose.jpg"
       },
       "thumb": {
-        "jaune": "img/produits/bracelet-chaine-diamants/jaune-t.jpg",
-        "blanc": "img/produits/bracelet-chaine-diamants/blanc-t.jpg",
-        "rose": "img/produits/bracelet-chaine-diamants/rose-t.jpg"
+        "jaune": "img/produits/collier-chaine-diamants/jaune-t.jpg",
+        "blanc": "img/produits/collier-chaine-diamants/blanc-t.jpg",
+        "rose": "img/produits/collier-chaine-diamants/rose-t.jpg"
       }
     },
     {
@@ -811,17 +811,17 @@
       }
     },
     {
-      "id": "bracelet-pampilles-poires",
-      "nom": "Bracelet Pampilles Poires",
-      "cat": "bracelets",
+      "id": "bague-pampilles-poires",
+      "nom": "Bague Pampilles Poires",
+      "cat": "bagues",
       "pierre": "Poire",
       "img": {
-        "rose": "img/produits/bracelet-pampilles-poires/rose.jpg",
-        "blanc": "img/produits/bracelet-pampilles-poires/blanc.jpg"
+        "rose": "img/produits/bague-pampilles-poires/rose.jpg",
+        "blanc": "img/produits/bague-pampilles-poires/blanc.jpg"
       },
       "thumb": {
-        "rose": "img/produits/bracelet-pampilles-poires/rose-t.jpg",
-        "blanc": "img/produits/bracelet-pampilles-poires/blanc-t.jpg"
+        "rose": "img/produits/bague-pampilles-poires/rose-t.jpg",
+        "blanc": "img/produits/bague-pampilles-poires/blanc-t.jpg"
       }
     },
     {
@@ -927,18 +927,6 @@
       }
     },
     {
-      "id": "collier-lariat-double-pampille",
-      "nom": "Collier Lariat Double Pampille",
-      "cat": "colliers",
-      "pierre": "Rond",
-      "img": {
-        "jaune": "img/produits/collier-lariat-double-pampille/jaune.jpg"
-      },
-      "thumb": {
-        "jaune": "img/produits/collier-lariat-double-pampille/jaune-t.jpg"
-      }
-    },
-    {
       "id": "piercing-labret-degrade",
       "nom": "Piercing Labret Dégradé",
       "cat": "piercings",
@@ -999,27 +987,15 @@
       }
     },
     {
-      "id": "collier-lariat-pampille",
-      "nom": "Collier Lariat Pampille",
-      "cat": "colliers",
+      "id": "bracelet-degrade",
+      "nom": "Bracelet Dégradé",
+      "cat": "bracelets",
       "pierre": "Rond",
       "img": {
-        "blanc": "img/produits/collier-lariat-pampille/blanc.jpg"
+        "rose": "img/produits/bracelet-degrade/rose.jpg"
       },
       "thumb": {
-        "blanc": "img/produits/collier-lariat-pampille/blanc-t.jpg"
-      }
-    },
-    {
-      "id": "alliance-degradee",
-      "nom": "Alliance Dégradée",
-      "cat": "bagues",
-      "pierre": "Rond",
-      "img": {
-        "rose": "img/produits/alliance-degradee/rose.jpg"
-      },
-      "thumb": {
-        "rose": "img/produits/alliance-degradee/rose-t.jpg"
+        "rose": "img/produits/bracelet-degrade/rose-t.jpg"
       }
     },
     {
@@ -1028,10 +1004,12 @@
       "cat": "colliers",
       "pierre": "Rond",
       "img": {
-        "rose": "img/produits/collier-initiale-f/rose.jpg"
+        "rose": "img/produits/collier-initiale-f/rose.jpg",
+        "blanc": "img/produits/collier-initiale-f/blanc.jpg"
       },
       "thumb": {
-        "rose": "img/produits/collier-initiale-f/rose-t.jpg"
+        "rose": "img/produits/collier-initiale-f/rose-t.jpg",
+        "blanc": "img/produits/collier-initiale-f/blanc-t.jpg"
       }
     },
     {
@@ -1056,18 +1034,6 @@
       },
       "thumb": {
         "blanc": "img/produits/creole-fine-minimaliste/blanc-t.jpg"
-      }
-    },
-    {
-      "id": "collier-initiale-e",
-      "nom": "Collier Initiale E",
-      "cat": "colliers",
-      "pierre": "Rond",
-      "img": {
-        "blanc": "img/produits/collier-initiale-e/blanc.jpg"
-      },
-      "thumb": {
-        "blanc": "img/produits/collier-initiale-e/blanc-t.jpg"
       }
     },
     {

@@ -92,7 +92,6 @@ var N={
 "piercing-labret-trinite":["Trinity Labret Piercing","פירסינג לברט שלישייה"],
 "bracelet-degrade":["Graduated Bracelet","צמיד מדורג"],
 "collier-initiale-e":["Initial E Necklace","שרשרת אות E"],
-"collier-coeur-diamants-tennis":["Heart Diamond Necklace","שרשרת לב יהלומים"],
 "boucle-pampille-double":["Double Drop Earring","עגיל תליון כפול"],
 "collier-lariat-breloque":["Charm Lariat Necklace","שרשרת לריאט עם תליון"],
 "collier-lariat-simple":["Simple Lariat Necklace","שרשרת לריאט פשוטה"],

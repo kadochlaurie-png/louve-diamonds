@@ -883,11 +883,13 @@
       "pierre": "Cœur",
       "img": {
         "jaune": "img/produits/collier-coeur-pendentif-fin/jaune.jpg",
-        "rose": "img/produits/collier-coeur-pendentif-fin/rose.jpg"
+        "rose": "img/produits/collier-coeur-pendentif-fin/rose.jpg",
+        "blanc": "img/produits/collier-coeur-pendentif-fin/blanc.jpg"
       },
       "thumb": {
         "jaune": "img/produits/collier-coeur-pendentif-fin/jaune-t.jpg",
-        "rose": "img/produits/collier-coeur-pendentif-fin/rose-t.jpg"
+        "rose": "img/produits/collier-coeur-pendentif-fin/rose-t.jpg",
+        "blanc": "img/produits/collier-coeur-pendentif-fin/blanc-t.jpg"
       }
     },
     {
@@ -998,18 +1000,6 @@
       "thumb": {
         "rose": "img/produits/collier-initiale-e/rose-t.jpg",
         "blanc": "img/produits/collier-initiale-e/blanc-t.jpg"
-      }
-    },
-    {
-      "id": "collier-coeur-diamants-tennis",
-      "nom": "Collier Cœur Diamants",
-      "cat": "colliers",
-      "pierre": "Cœur",
-      "img": {
-        "blanc": "img/produits/collier-coeur-diamants-tennis/blanc.jpg"
-      },
-      "thumb": {
-        "blanc": "img/produits/collier-coeur-diamants-tennis/blanc-t.jpg"
       }
     },
     {

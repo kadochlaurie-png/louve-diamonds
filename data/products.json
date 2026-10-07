@@ -803,11 +803,13 @@
       "pierre": "Poire",
       "img": {
         "jaune": "img/produits/bracelet-jonc-poire-station/jaune.jpg",
-        "rose": "img/produits/bracelet-jonc-poire-station/rose.jpg"
+        "rose": "img/produits/bracelet-jonc-poire-station/rose.jpg",
+        "blanc": "img/produits/bracelet-jonc-poire-station/blanc.jpg"
       },
       "thumb": {
         "jaune": "img/produits/bracelet-jonc-poire-station/jaune-t.jpg",
-        "rose": "img/produits/bracelet-jonc-poire-station/rose-t.jpg"
+        "rose": "img/produits/bracelet-jonc-poire-station/rose-t.jpg",
+        "blanc": "img/produits/bracelet-jonc-poire-station/blanc-t.jpg"
       }
     },
     {
@@ -817,11 +819,13 @@
       "pierre": "Poire",
       "img": {
         "rose": "img/produits/bague-pampilles-poires/rose.jpg",
-        "blanc": "img/produits/bague-pampilles-poires/blanc.jpg"
+        "blanc": "img/produits/bague-pampilles-poires/blanc.jpg",
+        "jaune": "img/produits/bague-pampilles-poires/jaune.jpg"
       },
       "thumb": {
         "rose": "img/produits/bague-pampilles-poires/rose-t.jpg",
-        "blanc": "img/produits/bague-pampilles-poires/blanc-t.jpg"
+        "blanc": "img/produits/bague-pampilles-poires/blanc-t.jpg",
+        "jaune": "img/produits/bague-pampilles-poires/jaune-t.jpg"
       }
     },
     {
@@ -831,11 +835,13 @@
       "pierre": "Rond",
       "img": {
         "jaune": "img/produits/bracelet-jonc-station/jaune.jpg",
-        "blanc": "img/produits/bracelet-jonc-station/blanc.jpg"
+        "blanc": "img/produits/bracelet-jonc-station/blanc.jpg",
+        "rose": "img/produits/bracelet-jonc-station/rose.jpg"
       },
       "thumb": {
         "jaune": "img/produits/bracelet-jonc-station/jaune-t.jpg",
-        "blanc": "img/produits/bracelet-jonc-station/blanc-t.jpg"
+        "blanc": "img/produits/bracelet-jonc-station/blanc-t.jpg",
+        "rose": "img/produits/bracelet-jonc-station/rose-t.jpg"
       }
     },
     {
@@ -845,11 +851,13 @@
       "pierre": "Rond",
       "img": {
         "jaune": "img/produits/bracelet-chaine-fine-diamants/jaune.jpg",
-        "blanc": "img/produits/bracelet-chaine-fine-diamants/blanc.jpg"
+        "blanc": "img/produits/bracelet-chaine-fine-diamants/blanc.jpg",
+        "rose": "img/produits/bracelet-chaine-fine-diamants/rose.jpg"
       },
       "thumb": {
         "jaune": "img/produits/bracelet-chaine-fine-diamants/jaune-t.jpg",
-        "blanc": "img/produits/bracelet-chaine-fine-diamants/blanc-t.jpg"
+        "blanc": "img/produits/bracelet-chaine-fine-diamants/blanc-t.jpg",
+        "rose": "img/produits/bracelet-chaine-fine-diamants/rose-t.jpg"
       }
     },
     {
@@ -947,18 +955,6 @@
       }
     },
     {
-      "id": "bracelet-jonc-diamants-rose",
-      "nom": "Bracelet Jonc Diamants Rosé",
-      "cat": "bracelets",
-      "pierre": "Rond",
-      "img": {
-        "rose": "img/produits/bracelet-jonc-diamants-rose/rose.jpg"
-      },
-      "thumb": {
-        "rose": "img/produits/bracelet-jonc-diamants-rose/rose-t.jpg"
-      }
-    },
-    {
       "id": "piercing-labret-trinite",
       "nom": "Piercing Labret Trinité",
       "cat": "piercings",
@@ -1017,18 +1013,6 @@
       }
     },
     {
-      "id": "creole-fine-minimaliste",
-      "nom": "Créole Fine Minimaliste",
-      "cat": "boucles",
-      "pierre": "Rond",
-      "img": {
-        "blanc": "img/produits/creole-fine-minimaliste/blanc.jpg"
-      },
-      "thumb": {
-        "blanc": "img/produits/creole-fine-minimaliste/blanc-t.jpg"
-      }
-    },
-    {
       "id": "boucle-pampille-double",
       "nom": "Boucle Pampille Double",
       "cat": "boucles",
@@ -1038,30 +1022,6 @@
       },
       "thumb": {
         "blanc": "img/produits/boucle-pampille-double/blanc-t.jpg"
-      }
-    },
-    {
-      "id": "bracelet-chaine-coulissante",
-      "nom": "Bracelet Chaîne Coulissante",
-      "cat": "bracelets",
-      "pierre": "Rond",
-      "img": {
-        "rose": "img/produits/bracelet-chaine-coulissante/rose.jpg"
-      },
-      "thumb": {
-        "rose": "img/produits/bracelet-chaine-coulissante/rose-t.jpg"
-      }
-    },
-    {
-      "id": "boucle-pampilles-rondes",
-      "nom": "Boucle Pampilles Rondes",
-      "cat": "boucles",
-      "pierre": "Rond",
-      "img": {
-        "jaune": "img/produits/boucle-pampilles-rondes/jaune.jpg"
-      },
-      "thumb": {
-        "jaune": "img/produits/boucle-pampilles-rondes/jaune-t.jpg"
       }
     },
     {

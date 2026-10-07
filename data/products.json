@@ -853,29 +853,17 @@
       }
     },
     {
-      "id": "bracelet-jonc-fin-diamants",
-      "nom": "Bracelet Jonc Fin",
-      "cat": "bracelets",
-      "pierre": "Rond",
-      "img": {
-        "rose": "img/produits/bracelet-jonc-fin-diamants/rose.jpg",
-        "blanc": "img/produits/bracelet-jonc-fin-diamants/blanc.jpg"
-      },
-      "thumb": {
-        "rose": "img/produits/bracelet-jonc-fin-diamants/rose-t.jpg",
-        "blanc": "img/produits/bracelet-jonc-fin-diamants/blanc-t.jpg"
-      }
-    },
-    {
       "id": "bracelet-jonc-pave-diamants",
       "nom": "Bracelet Jonc Pavé",
       "cat": "bracelets",
       "pierre": "Pavé",
       "img": {
+        "blanc": "img/produits/bracelet-jonc-pave-diamants/blanc.jpg",
         "jaune": "img/produits/bracelet-jonc-pave-diamants/jaune.jpg",
         "rose": "img/produits/bracelet-jonc-pave-diamants/rose.jpg"
       },
       "thumb": {
+        "blanc": "img/produits/bracelet-jonc-pave-diamants/blanc-t.jpg",
         "jaune": "img/produits/bracelet-jonc-pave-diamants/jaune-t.jpg",
         "rose": "img/produits/bracelet-jonc-pave-diamants/rose-t.jpg"
       }
@@ -992,24 +980,28 @@
       "cat": "bracelets",
       "pierre": "Rond",
       "img": {
+        "blanc": "img/produits/bracelet-degrade/blanc.jpg",
+        "jaune": "img/produits/bracelet-degrade/jaune.jpg",
         "rose": "img/produits/bracelet-degrade/rose.jpg"
       },
       "thumb": {
+        "blanc": "img/produits/bracelet-degrade/blanc-t.jpg",
+        "jaune": "img/produits/bracelet-degrade/jaune-t.jpg",
         "rose": "img/produits/bracelet-degrade/rose-t.jpg"
       }
     },
     {
-      "id": "collier-initiale-f",
-      "nom": "Collier Initiale F",
+      "id": "collier-initiale-e",
+      "nom": "Collier Initiale E",
       "cat": "colliers",
       "pierre": "Rond",
       "img": {
-        "rose": "img/produits/collier-initiale-f/rose.jpg",
-        "blanc": "img/produits/collier-initiale-f/blanc.jpg"
+        "rose": "img/produits/collier-initiale-e/rose.jpg",
+        "blanc": "img/produits/collier-initiale-e/blanc.jpg"
       },
       "thumb": {
-        "rose": "img/produits/collier-initiale-f/rose-t.jpg",
-        "blanc": "img/produits/collier-initiale-f/blanc-t.jpg"
+        "rose": "img/produits/collier-initiale-e/rose-t.jpg",
+        "blanc": "img/produits/collier-initiale-e/blanc-t.jpg"
       }
     },
     {
@@ -1070,18 +1062,6 @@
       },
       "thumb": {
         "jaune": "img/produits/boucle-pampilles-rondes/jaune-t.jpg"
-      }
-    },
-    {
-      "id": "bracelet-jonc-fin-dore",
-      "nom": "Bracelet Jonc Fin Doré",
-      "cat": "bracelets",
-      "pierre": "Rond",
-      "img": {
-        "jaune": "img/produits/bracelet-jonc-fin-dore/jaune.jpg"
-      },
-      "thumb": {
-        "jaune": "img/produits/bracelet-jonc-fin-dore/jaune-t.jpg"
       }
     },
     {

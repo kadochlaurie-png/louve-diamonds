@@ -995,11 +995,13 @@
       "pierre": "Rond",
       "img": {
         "rose": "img/produits/collier-initiale-e/rose.jpg",
-        "blanc": "img/produits/collier-initiale-e/blanc.jpg"
+        "blanc": "img/produits/collier-initiale-e/blanc.jpg",
+        "jaune": "img/produits/collier-initiale-e/jaune.jpg"
       },
       "thumb": {
         "rose": "img/produits/collier-initiale-e/rose-t.jpg",
-        "blanc": "img/produits/collier-initiale-e/blanc-t.jpg"
+        "blanc": "img/produits/collier-initiale-e/blanc-t.jpg",
+        "jaune": "img/produits/collier-initiale-e/jaune-t.jpg"
       }
     },
     {
@@ -1008,10 +1010,14 @@
       "cat": "boucles",
       "pierre": "Rond",
       "img": {
-        "blanc": "img/produits/boucle-pampille-double/blanc.jpg"
+        "blanc": "img/produits/boucle-pampille-double/blanc.jpg",
+        "jaune": "img/produits/boucle-pampille-double/jaune.jpg",
+        "rose": "img/produits/boucle-pampille-double/rose.jpg"
       },
       "thumb": {
-        "blanc": "img/produits/boucle-pampille-double/blanc-t.jpg"
+        "blanc": "img/produits/boucle-pampille-double/blanc-t.jpg",
+        "jaune": "img/produits/boucle-pampille-double/jaune-t.jpg",
+        "rose": "img/produits/boucle-pampille-double/rose-t.jpg"
       }
     },
     {

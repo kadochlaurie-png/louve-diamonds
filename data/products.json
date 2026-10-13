@@ -131,7 +131,7 @@
     {
       "id": "bague-coeur-serti-clos",
       "nom": "Bague Cœur Serti Clos",
-      "cat": "bagues",
+      "cat": "fiancailles",
       "pierre": "Cœur",
       "img": {
         "rose": "img/produits/bague-coeur-serti-clos/rose.jpg",
@@ -339,7 +339,7 @@
     {
       "id": "bague-poire-halo",
       "nom": "Bague Poire Halo",
-      "cat": "bagues",
+      "cat": "fiancailles",
       "pierre": "Poire",
       "img": {
         "blanc": "img/produits/bague-poire-halo/blanc.jpg",
@@ -527,7 +527,7 @@
     {
       "id": "solitaire-ovale",
       "nom": "Solitaire Ovale",
-      "cat": "bagues",
+      "cat": "fiancailles",
       "pierre": "Ovale",
       "img": {
         "blanc": "img/produits/solitaire-ovale/blanc.jpg",
@@ -543,7 +543,7 @@
     {
       "id": "bague-solitaire-pavee",
       "nom": "Bague Solitaire Pavée",
-      "cat": "bagues",
+      "cat": "fiancailles",
       "pierre": "Rond",
       "img": {
         "rose": "img/produits/bague-solitaire-pavee/rose.jpg",
@@ -559,7 +559,7 @@
     {
       "id": "bague-solitaire-marquises",
       "nom": "Bague Solitaire Marquises",
-      "cat": "bagues",
+      "cat": "fiancailles",
       "pierre": "Rond",
       "img": {
         "blanc": "img/produits/bague-solitaire-marquises/blanc.jpg",
@@ -591,7 +591,7 @@
     {
       "id": "bague-poire-epaulee",
       "nom": "Bague Poire Épaulée",
-      "cat": "bagues",
+      "cat": "fiancailles",
       "pierre": "Poire",
       "img": {
         "blanc": "img/produits/bague-poire-epaulee/blanc.jpg",
@@ -751,7 +751,7 @@
     {
       "id": "bague-ovale-soleil",
       "nom": "Bague Ovale Soleil",
-      "cat": "bagues",
+      "cat": "fiancailles",
       "pierre": "Ovale",
       "img": {
         "blanc": "img/produits/bague-ovale-soleil/blanc.jpg",
@@ -911,7 +911,7 @@
     {
       "id": "bague-poire-asymetrique",
       "nom": "Bague Poire Asymétrique",
-      "cat": "bagues",
+      "cat": "fiancailles",
       "pierre": "Poire",
       "img": {
         "blanc": "img/produits/bague-poire-asymetrique/blanc.jpg",

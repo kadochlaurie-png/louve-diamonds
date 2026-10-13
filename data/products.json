@@ -1115,6 +1115,22 @@
         "jaune": "img/produits/bague-marquise-baguettes/jaune-t.jpg",
         "rose": "img/produits/bague-marquise-baguettes/rose-t.jpg"
       }
+    },
+    {
+      "id": "bracelet-double-chaine-diamants",
+      "nom": "Bracelet Double Chaîne Diamants",
+      "cat": "bracelets",
+      "pierre": "Rond",
+      "img": {
+        "blanc": "img/produits/bracelet-double-chaine-diamants/blanc.jpg",
+        "jaune": "img/produits/bracelet-double-chaine-diamants/jaune.jpg",
+        "rose": "img/produits/bracelet-double-chaine-diamants/rose.jpg"
+      },
+      "thumb": {
+        "blanc": "img/produits/bracelet-double-chaine-diamants/blanc-t.jpg",
+        "jaune": "img/produits/bracelet-double-chaine-diamants/jaune-t.jpg",
+        "rose": "img/produits/bracelet-double-chaine-diamants/rose-t.jpg"
+      }
     }
   ]
 }

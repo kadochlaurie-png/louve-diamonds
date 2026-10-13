@@ -1,7 +1,7 @@
 (function(){
 var D={
 fr:{
-"nav.home":"Accueil","nav.bagues":"Bagues","nav.colliers":"Colliers","nav.bracelets":"Bracelets","nav.boucles":"Boucles d'oreilles","nav.piercings":"Piercings","nav.sur":"Sur mesure","nav.apropos":"À propos","nav.contact":"Contact",
+"nav.home":"Accueil","nav.bagues":"Bagues","nav.fiancailles":"Bagues de Fiançailles","nav.colliers":"Colliers","nav.bracelets":"Bracelets","nav.boucles":"Boucles d'oreilles","nav.piercings":"Piercings","nav.sur":"Sur mesure","nav.apropos":"À propos","nav.contact":"Contact",
 "brand":"Louve Diamonds","arrow":"→",
 "f.tag":"Des bijoux intemporels conçus pour sublimer chaque instant.","f.coll":"Collections","f.maison":"Maison","f.contact":"Contact","f.sur":"Création sur mesure","f.copy":"Tous droits réservés","f.ship":"Livraison dans le monde entier",
 "msg.gen":"Bonjour Louve Diamonds, je souhaite un renseignement.","msg.sur":"Bonjour Louve Diamonds, je souhaite créer un bijou sur mesure.",
@@ -13,7 +13,7 @@ fr:{
 "a.t":"À propos","a.p":"Forte de plus de 6 années d'expérience à la Bourse du Diamant de Ramat Gan, Louve Diamonds sélectionne avec exigence les plus beaux diamants afin de créer des bijoux uniques et intemporels.","a.btn":"En savoir plus",
 "cta.t":"Un bijou vous fait rêver ?","cta.p":"Écrivez-nous sur WhatsApp, nous vous répondons personnellement.","cta.btn":"Nous écrire sur WhatsApp",
 "c.all":"La collection","c.sub":"Chaque bijou est disponible en or blanc, or rose et or jaune.","c.search":"Rechercher un bijou","c.cats":"Catégories","c.stone":"Forme de la pierre","c.allj":"Tous les bijoux","c.toutes":"Toutes","c.one":"bijou","c.many":"bijoux","c.empty":"Aucun bijou ne correspond à votre recherche.",
-"cat.bagues":"Bagues","cat.colliers":"Colliers","cat.bracelets":"Bracelets","cat.boucles":"Boucles d'oreilles","cat.piercings":"Piercings",
+"cat.bagues":"Bagues","cat.fiancailles":"Bagues de Fiançailles","cat.colliers":"Colliers","cat.bracelets":"Bracelets","cat.boucles":"Boucles d'oreilles","cat.piercings":"Piercings",
 "ty.bagues":"Bague","ty.colliers":"Collier","ty.bracelets":"Bracelet","ty.boucles":"Boucles d'oreilles","ty.piercings":"Piercing",
 "st.Cœur":"Cœur","st.Émeraude":"Émeraude","st.Marquise":"Marquise","st.Ovale":"Ovale","st.Pavé":"Pavé","st.Poire":"Poire","st.Rond":"Rond","st.Baguette":"Baguette",
 "m.blanc":"Or blanc","m.rose":"Or rose","m.jaune":"Or jaune","m.all":"Or blanc · rose · jaune","m.coll":"Collection",
@@ -23,7 +23,7 @@ fr:{
 "ct.sub":"Une question sur un bijou ? Nous vous répondons personnellement.","ct.wa":"WhatsApp","ct.wat":"Écrire un message","ct.in":"Instagram","ct.em":"E-mail","ct.ad":"Adresse","ct.adv":"Bourse du Diamant, Ramat Gan, Israël"
 },
 en:{
-"nav.home":"Home","nav.bagues":"Rings","nav.colliers":"Necklaces","nav.bracelets":"Bracelets","nav.boucles":"Earrings","nav.piercings":"Piercings","nav.sur":"Custom Design","nav.apropos":"About","nav.contact":"Contact",
+"nav.home":"Home","nav.bagues":"Rings","nav.fiancailles":"Engagement Rings","nav.colliers":"Necklaces","nav.bracelets":"Bracelets","nav.boucles":"Earrings","nav.piercings":"Piercings","nav.sur":"Custom Design","nav.apropos":"About","nav.contact":"Contact",
 "brand":"Louve Diamonds","arrow":"→",
 "f.tag":"Timeless jewelry designed to make every moment shine.","f.coll":"Collections","f.maison":"The House","f.contact":"Contact","f.sur":"Custom design","f.copy":"All rights reserved","f.ship":"Worldwide shipping",
 "msg.gen":"Hello Louve Diamonds, I would like some information.","msg.sur":"Hello Louve Diamonds, I would like to create a custom piece of jewelry.",
@@ -35,7 +35,7 @@ en:{
 "a.t":"About","a.p":"With over 6 years of experience at the Diamond Exchange in Ramat Gan, Louve Diamonds carefully selects the finest diamonds to create unique, timeless jewelry.","a.btn":"Learn more",
 "cta.t":"Dreaming of a jewel?","cta.p":"Write to us on WhatsApp, we reply personally.","cta.btn":"Message us on WhatsApp",
 "c.all":"The collection","c.sub":"Every piece is available in white gold, rose gold and yellow gold.","c.search":"Search for a piece","c.cats":"Categories","c.stone":"Stone shape","c.allj":"All jewelry","c.toutes":"All","c.one":"piece","c.many":"pieces","c.empty":"No piece matches your search.",
-"cat.bagues":"Rings","cat.colliers":"Necklaces","cat.bracelets":"Bracelets","cat.boucles":"Earrings","cat.piercings":"Piercings",
+"cat.bagues":"Rings","cat.fiancailles":"Engagement Rings","cat.colliers":"Necklaces","cat.bracelets":"Bracelets","cat.boucles":"Earrings","cat.piercings":"Piercings",
 "ty.bagues":"Ring","ty.colliers":"Necklace","ty.bracelets":"Bracelet","ty.boucles":"Earrings","ty.piercings":"Piercing",
 "st.Cœur":"Heart","st.Émeraude":"Emerald","st.Marquise":"Marquise","st.Ovale":"Oval","st.Pavé":"Pavé","st.Poire":"Pear","st.Rond":"Round","st.Baguette":"Baguette",
 "m.blanc":"White gold","m.rose":"Rose gold","m.jaune":"Yellow gold","m.all":"White · rose · yellow gold","m.coll":"Collection",
@@ -45,7 +45,7 @@ en:{
 "ct.sub":"A question about a piece? We reply personally.","ct.wa":"WhatsApp","ct.wat":"Send a message","ct.in":"Instagram","ct.em":"E-mail","ct.ad":"Address","ct.adv":"Diamond Exchange, Ramat Gan, Israel"
 },
 he:{
-"nav.home":"בית","nav.bagues":"טבעות","nav.colliers":"שרשראות","nav.bracelets":"צמידים","nav.boucles":"עגילים","nav.piercings":"פירסינגים","nav.sur":"עיצוב אישי","nav.apropos":"אודות","nav.contact":"צור קשר",
+"nav.home":"בית","nav.bagues":"טבעות","nav.fiancailles":"טבעות אירוסין","nav.colliers":"שרשראות","nav.bracelets":"צמידים","nav.boucles":"עגילים","nav.piercings":"פירסינגים","nav.sur":"עיצוב אישי","nav.apropos":"אודות","nav.contact":"צור קשר",
 "brand":"לובה דיאמונדס","arrow":"←",
 "f.tag":"תכשיטים על-זמניים, שנוצרו כדי להאיר כל רגע.","f.coll":"קולקציות","f.maison":"הבית","f.contact":"צור קשר","f.sur":"עיצוב אישי","f.copy":"כל הזכויות שמורות","f.ship":"משלוח לכל העולם",
 "msg.gen":"שלום לובה דיאמונדס, אשמח לקבל פרטים.","msg.sur":"שלום לובה דיאמונדס, אני מעוניינת ליצור תכשיט בעיצוב אישי.",
@@ -57,7 +57,7 @@ he:{
 "a.t":"אודות","a.p":"עם למעלה מ-6 שנות ניסיון בבורסה ליהלומים ברמת גן, לובה דיאמונדס בוחרת בקפדנות את היהלומים היפים ביותר כדי ליצור תכשיטים ייחודיים ועל-זמניים.","a.btn":"למידע נוסף",
 "cta.t":"תכשיט שגורם לכם לחלום?","cta.p":"כתבו לנו בוואטסאפ, אנחנו עונים אישית.","cta.btn":"כתבו לנו בוואטסאפ",
 "c.all":"הקולקציה","c.sub":"כל תכשיט זמין בזהב לבן, זהב רוזה וזהב צהוב.","c.search":"חיפוש תכשיט","c.cats":"קטגוריות","c.stone":"צורת האבן","c.allj":"כל התכשיטים","c.toutes":"הכול","c.one":"תכשיט","c.many":"תכשיטים","c.empty":"לא נמצא תכשיט התואם לחיפוש.",
-"cat.bagues":"טבעות","cat.colliers":"שרשראות","cat.bracelets":"צמידים","cat.boucles":"עגילים","cat.piercings":"פירסינגים",
+"cat.bagues":"טבעות","cat.fiancailles":"טבעות אירוסין","cat.colliers":"שרשראות","cat.bracelets":"צמידים","cat.boucles":"עגילים","cat.piercings":"פירסינגים",
 "ty.bagues":"טבעת","ty.colliers":"שרשרת","ty.bracelets":"צמיד","ty.boucles":"עגילים","ty.piercings":"פירסינג",
 "st.Cœur":"לב","st.Émeraude":"אמרלד","st.Marquise":"מרקיז","st.Ovale":"אובל","st.Pavé":"פאבה","st.Poire":"טיפה","st.Rond":"עגול","st.Baguette":"באגט",
 "m.blanc":"זהב לבן","m.rose":"זהב רוזה","m.jaune":"זהב צהוב","m.all":"זהב לבן · רוזה · צהוב","m.coll":"קולקציה",

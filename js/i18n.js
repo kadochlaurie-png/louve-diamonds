@@ -132,7 +132,11 @@ var N={
 "bague-solitaire-pavee":["Pavé Solitaire Ring","טבעת סוליטר פאבה"],
 "bague-solitaire-marquises":["Marquise Accent Solitaire","סוליטר עם מרקיזים"],
 "chevaliere-marquise-rainuree":["Grooved Marquise Signet Ring","טבעת חותם מרקיז חרוטה"],
-"bague-poire-epaulee":["Pear Side-Stone Ring","טבעת טיפה עם אבני צד"]};
+"bague-poire-epaulee":["Pear Side-Stone Ring","טבעת טיפה עם אבני צד"],
+"solitaire-rond":["Round Solitaire Ring","טבעת סוליטר עגולה"],
+"solitaire-emeraude":["Emerald Solitaire Ring","טבעת סוליטר אמרלד"],
+"bague-coeur-halo":["Heart Halo Ring","טבעת לב הילה"],
+"bague-marquise-baguettes":["Marquise Baguette Ring","טבעת מרקיז באגטים"]};
 var q=new URLSearchParams(location.search), L=q.get('lang');
 if(!/^(fr|en|he)$/.test(L||'')){try{L=localStorage.getItem('louve_lang')}catch(e){L=null}}
 if(!/^(fr|en|he)$/.test(L||''))L='fr';

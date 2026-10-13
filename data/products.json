@@ -1051,6 +1051,70 @@
         "jaune": "img/produits/collier-lariat-simple/jaune-t.jpg",
         "rose": "img/produits/collier-lariat-simple/rose-t.jpg"
       }
+    },
+    {
+      "id": "solitaire-rond",
+      "nom": "Solitaire Rond",
+      "cat": "fiancailles",
+      "pierre": "Rond",
+      "img": {
+        "blanc": "img/produits/solitaire-rond/blanc.jpg",
+        "jaune": "img/produits/solitaire-rond/jaune.jpg",
+        "rose": "img/produits/solitaire-rond/rose.jpg"
+      },
+      "thumb": {
+        "blanc": "img/produits/solitaire-rond/blanc-t.jpg",
+        "jaune": "img/produits/solitaire-rond/jaune-t.jpg",
+        "rose": "img/produits/solitaire-rond/rose-t.jpg"
+      }
+    },
+    {
+      "id": "solitaire-emeraude",
+      "nom": "Solitaire Émeraude",
+      "cat": "fiancailles",
+      "pierre": "Émeraude",
+      "img": {
+        "blanc": "img/produits/solitaire-emeraude/blanc.jpg",
+        "jaune": "img/produits/solitaire-emeraude/jaune.jpg",
+        "rose": "img/produits/solitaire-emeraude/rose.jpg"
+      },
+      "thumb": {
+        "blanc": "img/produits/solitaire-emeraude/blanc-t.jpg",
+        "jaune": "img/produits/solitaire-emeraude/jaune-t.jpg",
+        "rose": "img/produits/solitaire-emeraude/rose-t.jpg"
+      }
+    },
+    {
+      "id": "bague-coeur-halo",
+      "nom": "Bague Cœur Halo",
+      "cat": "fiancailles",
+      "pierre": "Cœur",
+      "img": {
+        "blanc": "img/produits/bague-coeur-halo/blanc.jpg",
+        "jaune": "img/produits/bague-coeur-halo/jaune.jpg",
+        "rose": "img/produits/bague-coeur-halo/rose.jpg"
+      },
+      "thumb": {
+        "blanc": "img/produits/bague-coeur-halo/blanc-t.jpg",
+        "jaune": "img/produits/bague-coeur-halo/jaune-t.jpg",
+        "rose": "img/produits/bague-coeur-halo/rose-t.jpg"
+      }
+    },
+    {
+      "id": "bague-marquise-baguettes",
+      "nom": "Bague Marquise Baguettes",
+      "cat": "fiancailles",
+      "pierre": "Marquise",
+      "img": {
+        "blanc": "img/produits/bague-marquise-baguettes/blanc.jpg",
+        "jaune": "img/produits/bague-marquise-baguettes/jaune.jpg",
+        "rose": "img/produits/bague-marquise-baguettes/rose.jpg"
+      },
+      "thumb": {
+        "blanc": "img/produits/bague-marquise-baguettes/blanc-t.jpg",
+        "jaune": "img/produits/bague-marquise-baguettes/jaune-t.jpg",
+        "rose": "img/produits/bague-marquise-baguettes/rose-t.jpg"
+      }
     }
   ]
 }

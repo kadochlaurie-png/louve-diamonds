@@ -1,0 +1,12 @@
+{
+  "name": "louve-diamonds-site",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "process-images": "node scripts/process-images.mjs"
+  },
+  "dependencies": {
+    "sharp": "^0.33.5"
+  }
+}

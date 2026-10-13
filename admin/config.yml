@@ -33,6 +33,7 @@ collections:
                 default: "bagues"
                 options:
                   - {label: "Bagues", value: "bagues"}
+                  - {label: "Bagues de Fiançailles", value: "fiancailles"}
                   - {label: "Colliers", value: "colliers"}
                   - {label: "Bracelets", value: "bracelets"}
                   - {label: "Boucles d'oreilles", value: "boucles"}

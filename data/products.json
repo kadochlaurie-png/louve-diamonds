@@ -605,22 +605,6 @@
       }
     },
     {
-      "id": "boucles-trefle-pave",
-      "nom": "Boucles Trèfle Pavé",
-      "cat": "boucles",
-      "pierre": "Rond",
-      "img": {
-        "jaune": "img/produits/boucles-trefle-pave/jaune.jpg",
-        "rose": "img/produits/boucles-trefle-pave/rose.jpg",
-        "blanc": "img/produits/boucles-trefle-pave/blanc.jpg"
-      },
-      "thumb": {
-        "jaune": "img/produits/boucles-trefle-pave/jaune-t.jpg",
-        "rose": "img/produits/boucles-trefle-pave/rose-t.jpg",
-        "blanc": "img/produits/boucles-trefle-pave/blanc-t.jpg"
-      }
-    },
-    {
       "id": "alliance-mosaique",
       "nom": "Alliance Mosaïque",
       "cat": "bagues",

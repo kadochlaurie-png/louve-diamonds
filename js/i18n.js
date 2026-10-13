@@ -67,7 +67,6 @@ he:{
 "ct.sub":"שאלה על תכשיט? אנחנו עונים אישית.","ct.wa":"וואטסאפ","ct.wat":"שלחו הודעה","ct.in":"אינסטגרם","ct.em":"אימייל","ct.ad":"כתובת","ct.adv":"הבורסה ליהלומים, רמת גן, ישראל"
 }};
 var N={
-"boucles-trefle-pave":["Pavé Clover Earrings","עגילי תלתן פאבה"],
 "alliance-mosaique":["Mosaic Eternity Band","טבעת נצח מוזאיקה"],
 "alliance-coeurs":["Heart Eternity Band","טבעת נצח לבבות"],
 "bracelet-tennis-noir":["Black Tennis Bracelet","צמיד טניס שחור"],

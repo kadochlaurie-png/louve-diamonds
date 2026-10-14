@@ -12,6 +12,12 @@ function draw(){
   el('fc').innerHTML=CATS.map(c=>`<li><button data-c="${c}" class="${c===cat?'on':''}">${catName(c)}</button></li>`).join('');
   el('ttl').textContent=cat==='all'?t('c.all'):t('cat.'+cat);
   document.title=el('ttl').textContent+' — '+t('brand');
+  const dKey=cat==='all'?'desc.cat':'desc.'+cat;
+  const dText=t(dKey);
+  const setMeta=(sel,attr,val)=>{const e=document.querySelector(sel); if(e&&val)e.setAttribute(attr,val)};
+  if(dText){setMeta('meta[name="description"]','content',dText);setMeta('meta[property="og:description"]','content',dText);setMeta('meta[name="twitter:description"]','content',dText);}
+  setMeta('meta[property="og:title"]','content',document.title);
+  setMeta('meta[name="twitter:title"]','content',document.title);
 }
 document.addEventListener('click',e=>{
   const c=e.target.closest('[data-c]');

@@ -26,6 +26,19 @@ document.querySelectorAll('[data-i18n]').forEach(e=>e.textContent=t(e.dataset.i1
 document.querySelectorAll('[data-i18n-ph]').forEach(e=>e.placeholder=t(e.dataset.i18nPh));
 document.querySelectorAll('a[data-wa]').forEach(a=>{a.href=waLink(t(a.dataset.wa));a.target='_blank';a.rel='noopener';a.innerHTML=WA+' '+t(a.dataset.btn)});
 const tk=document.documentElement.dataset.title; if(tk)document.title=t(tk);
+const dk=document.documentElement.dataset.desc;
+const setMeta=(sel,attr,val)=>{const e=document.querySelector(sel); if(e&&val)e.setAttribute(attr,val)};
+const pageDesc=dk?t(dk):'';
+const pageTitle=tk?t(tk):document.title;
+if(pageDesc)setMeta('meta[name="description"]','content',pageDesc);
+setMeta('meta[property="og:title"]','content',pageTitle);
+if(pageDesc)setMeta('meta[property="og:description"]','content',pageDesc);
+setMeta('meta[property="og:url"]','content',location.href);
+setMeta('meta[property="og:locale"]','content',LANG==='fr'?'fr_FR':(LANG==='he'?'he_IL':'en_US'));
+setMeta('meta[name="twitter:title"]','content',pageTitle);
+if(pageDesc)setMeta('meta[name="twitter:description"]','content',pageDesc);
+const canEl=document.querySelector('link[rel="canonical"]'); if(canEl)canEl.href=location.origin+location.pathname+location.search;
+
 document.addEventListener('click',e=>{
   const a=e.target.closest('a[href]'); if(!a||LANG==='fr')return;
   const h=a.getAttribute('href'); if(/^(https?:|mailto:|tel:|#)/.test(h))return;

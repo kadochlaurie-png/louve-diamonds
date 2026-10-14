@@ -4,6 +4,19 @@ const p=P.find(x=>pid(x)===id), root=document.getElementById('root');
 if(!p){root.innerHTML='<div class="txtpg" style="padding-top:80px;text-align:center"><p>'+t('p.nf')+'</p><a class="btn" href="catalogue.html">'+t('p.seec')+'</a></div>';return}
 const ms=metals(p), nm=pname(p), pi=pid(p); let cur=firstMetal(p);
 document.title=nm+' — '+t('brand');
+const setMeta=(sel,attr,val)=>{const e=document.querySelector(sel); if(e&&val)e.setAttribute(attr,val)};
+const prodDesc=t('p.seo',{n:nm,c:t('cat.'+p.cat)});
+const prodImg=new URL(p.img[cur],location.href).href;
+setMeta('meta[name="description"]','content',prodDesc);
+setMeta('meta[property="og:title"]','content',document.title);
+setMeta('meta[property="og:description"]','content',prodDesc);
+setMeta('meta[property="og:image"]','content',prodImg);
+setMeta('meta[name="twitter:title"]','content',document.title);
+setMeta('meta[name="twitter:description"]','content',prodDesc);
+setMeta('meta[name="twitter:image"]','content',prodImg);
+const ldTag=document.createElement('script'); ldTag.type='application/ld+json';
+ldTag.textContent=JSON.stringify({"@context":"https://schema.org","@type":"Product","name":nm,"image":prodImg,"category":t('cat.'+p.cat),"description":prodDesc,"brand":{"@type":"Brand","name":"Louve Diamonds"}});
+document.head.appendChild(ldTag);
 function draw(){
   const ty=t('ty.'+p.cat), msg=t('p.msg',{n:nm,m:t('m.'+cur).toLowerCase(),r:pi});
   root.innerHTML=`<div class="wrap"><div class="crumb"><a href="index.html">${t('p.home')}</a> / <a href="catalogue.html?cat=${p.cat}">${t('cat.'+p.cat)}</a> / ${nm}</div>

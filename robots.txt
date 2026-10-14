@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://louve-diamonds.pages.dev/sitemap.xml

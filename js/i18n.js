@@ -142,7 +142,7 @@ var N={
 "solitaire-emeraude":["Emerald Solitaire Ring","טבעת סוליטר אמרלד"],
 "bague-coeur-halo":["Heart Halo Ring","טבעת לב הילה"],
 "bague-marquise-baguettes":["Marquise Baguette Ring","טבעת מרקיז באגטים"],
-"bracelet-double-chaine-diamants":["Double Chain Diamond Bracelet","צמיד שרשרת כפולה יהלומים"],"bague-spirale-bypass-marquise":["Marquise Bypass Spiral Ring","טבעת ספירלה פתוחה מרקיז"],"bague-saphir-halo":["Sapphire Diamond Halo Ring","טבעת ספיר הילה יהלומים"],"bague-toi-et-moi-coeur-poire":["Toi et Moi Heart & Pear Ring","טבעת טואה את מואה לב וטיפה"],"bague-emeraude-bezel":["Bezel Emerald Ring","טבעת אמרלד משובצת"],"bracelet-tennis-multicolore":["Multicolor Tennis Bracelet","צמיד טניס רב-גוני"],"piercing-couronne-marquise":["Marquise Crown Piercing","פירסינג כתר מרקיז"]};
+"bracelet-double-chaine-diamants":["Double Chain Diamond Bracelet","צמיד שרשרת כפולה יהלומים"],"bague-spirale-bypass-marquise":["Marquise Bypass Spiral Ring","טבעת ספירלה פתוחה מרקיז"],"bague-saphir-halo":["Sapphire Diamond Halo Ring","טבעת ספיר הילה יהלומים"],"bague-toi-et-moi-coeur-poire":["Toi et Moi Heart & Pear Ring","טבעת טואה את מואה לב וטיפה"],"bague-emeraude-bezel":["Bezel Emerald Ring","טבעת אמרלד משובצת"],"bracelet-tennis-multicolore":["Multicolor Tennis Bracelet","צמיד טניס רב-גוני"],"piercing-couronne-marquise":["Marquise Crown Piercing","פירסינג כתר מרקיז"],"bracelet-perles-heishi-turquoise":["Turquoise Heishi Bead Bracelet","צמיד חרוזי הישי טורקיז"]};
 var q=new URLSearchParams(location.search), L=q.get('lang');
 if(!/^(fr|en|he)$/.test(L||'')){try{L=localStorage.getItem('louve_lang')}catch(e){L=null}}
 if(!/^(fr|en|he)$/.test(L||''))L='fr';

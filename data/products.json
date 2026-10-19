@@ -1207,6 +1207,22 @@
         "blanc": "img/produits/piercing-couronne-marquise/blanc-t.jpg",
         "rose": "img/produits/piercing-couronne-marquise/rose-t.jpg"
       }
+    },
+    {
+      "id": "bracelet-perles-heishi-turquoise",
+      "nom": "Bracelet Perles Heishi Turquoise",
+      "cat": "bracelets",
+      "pierre": "Pavé",
+      "img": {
+        "rose": "img/produits/bracelet-perles-heishi-turquoise/rose.jpg",
+        "blanc": "img/produits/bracelet-perles-heishi-turquoise/blanc.jpg",
+        "jaune": "img/produits/bracelet-perles-heishi-turquoise/jaune.jpg"
+      },
+      "thumb": {
+        "rose": "img/produits/bracelet-perles-heishi-turquoise/rose-t.jpg",
+        "blanc": "img/produits/bracelet-perles-heishi-turquoise/blanc-t.jpg",
+        "jaune": "img/produits/bracelet-perles-heishi-turquoise/jaune-t.jpg"
+      }
     }
   ]
 }

@@ -1119,7 +1119,7 @@
     {
       "id": "bague-spirale-bypass-marquise",
       "nom": "Bague Bypass Pointes Marquise",
-      "cat": "fiancailles",
+      "cat": "bagues",
       "pierre": "Marquise",
       "img": {
         "blanc": "img/produits/bague-spirale-bypass-marquise/blanc.jpg",
@@ -1149,7 +1149,7 @@
     {
       "id": "bague-toi-et-moi-coeur-poire",
       "nom": "Bague Toi et Moi Cœur & Poire",
-      "cat": "fiancailles",
+      "cat": "bagues",
       "pierre": "Cœur & Poire",
       "img": {
         "blanc": "img/produits/bague-toi-et-moi-coeur-poire/blanc.jpg",

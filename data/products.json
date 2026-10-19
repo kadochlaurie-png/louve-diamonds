@@ -1115,6 +1115,98 @@
         "jaune": "img/produits/bracelet-double-chaine-diamants/jaune-t.jpg",
         "rose": "img/produits/bracelet-double-chaine-diamants/rose-t.jpg"
       }
+    },
+    {
+      "id": "bague-spirale-bypass-marquise",
+      "nom": "Bague Bypass Pointes Marquise",
+      "cat": "fiancailles",
+      "pierre": "Marquise",
+      "img": {
+        "blanc": "img/produits/bague-spirale-bypass-marquise/blanc.jpg",
+        "rose": "img/produits/bague-spirale-bypass-marquise/rose.jpg",
+        "jaune": "img/produits/bague-spirale-bypass-marquise/jaune.jpg"
+      },
+      "thumb": {
+        "blanc": "img/produits/bague-spirale-bypass-marquise/blanc-t.jpg",
+        "rose": "img/produits/bague-spirale-bypass-marquise/rose-t.jpg",
+        "jaune": "img/produits/bague-spirale-bypass-marquise/jaune-t.jpg"
+      }
+    },
+    {
+      "id": "bague-saphir-halo",
+      "nom": "Bague Saphir Halo Diamants",
+      "cat": "bagues",
+      "pierre": "Saphir",
+      "img": {
+        "jaune": "img/produits/bague-saphir-halo/jaune.jpg",
+        "blanc": "img/produits/bague-saphir-halo/blanc.jpg"
+      },
+      "thumb": {
+        "jaune": "img/produits/bague-saphir-halo/jaune-t.jpg",
+        "blanc": "img/produits/bague-saphir-halo/blanc-t.jpg"
+      }
+    },
+    {
+      "id": "bague-toi-et-moi-coeur-poire",
+      "nom": "Bague Toi et Moi Cœur & Poire",
+      "cat": "fiancailles",
+      "pierre": "Cœur & Poire",
+      "img": {
+        "blanc": "img/produits/bague-toi-et-moi-coeur-poire/blanc.jpg",
+        "rose": "img/produits/bague-toi-et-moi-coeur-poire/rose.jpg",
+        "jaune": "img/produits/bague-toi-et-moi-coeur-poire/jaune.jpg"
+      },
+      "thumb": {
+        "blanc": "img/produits/bague-toi-et-moi-coeur-poire/blanc-t.jpg",
+        "rose": "img/produits/bague-toi-et-moi-coeur-poire/rose-t.jpg",
+        "jaune": "img/produits/bague-toi-et-moi-coeur-poire/jaune-t.jpg"
+      }
+    },
+    {
+      "id": "bague-emeraude-bezel",
+      "nom": "Bague Émeraude Serti Clos",
+      "cat": "fiancailles",
+      "pierre": "Émeraude",
+      "img": {
+        "blanc": "img/produits/bague-emeraude-bezel/blanc.jpg",
+        "jaune": "img/produits/bague-emeraude-bezel/jaune.jpg",
+        "rose": "img/produits/bague-emeraude-bezel/rose.jpg"
+      },
+      "thumb": {
+        "blanc": "img/produits/bague-emeraude-bezel/blanc-t.jpg",
+        "jaune": "img/produits/bague-emeraude-bezel/jaune-t.jpg",
+        "rose": "img/produits/bague-emeraude-bezel/rose-t.jpg"
+      }
+    },
+    {
+      "id": "bracelet-tennis-multicolore",
+      "nom": "Bracelet Tennis Multicolore",
+      "cat": "bracelets",
+      "pierre": "Multicolore",
+      "img": {
+        "blanc": "img/produits/bracelet-tennis-multicolore/blanc.jpg",
+        "jaune": "img/produits/bracelet-tennis-multicolore/jaune.jpg"
+      },
+      "thumb": {
+        "blanc": "img/produits/bracelet-tennis-multicolore/blanc-t.jpg",
+        "jaune": "img/produits/bracelet-tennis-multicolore/jaune-t.jpg"
+      }
+    },
+    {
+      "id": "piercing-couronne-marquise",
+      "nom": "Piercing Couronne Marquise",
+      "cat": "piercings",
+      "pierre": "Marquise",
+      "img": {
+        "jaune": "img/produits/piercing-couronne-marquise/jaune.jpg",
+        "blanc": "img/produits/piercing-couronne-marquise/blanc.jpg",
+        "rose": "img/produits/piercing-couronne-marquise/rose.jpg"
+      },
+      "thumb": {
+        "jaune": "img/produits/piercing-couronne-marquise/jaune-t.jpg",
+        "blanc": "img/produits/piercing-couronne-marquise/blanc-t.jpg",
+        "rose": "img/produits/piercing-couronne-marquise/rose-t.jpg"
+      }
     }
   ]
 }
